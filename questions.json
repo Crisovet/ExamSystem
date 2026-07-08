@@ -165,175 +165,166 @@
       "marks": 1,
       "explanation": "The reactivity order with HX is tertiary > secondary > primary alcohol due to easier substitution."
     },
-
-   {
-  "examTitle": "Chemistry Test",
-  "subject": "Chemistry",
-  "class": 12,
-  "chapter": "Haloalkanes and Haloarenes",
-  "topic": "From Introduction to Nucleophilic Substitution (Excluding SN1 & SN2)",
-  "questions": [
     {
-      "id": 1,
+      "id": 11,
       "type": "mcq_single",
-      "question": "A haloalkane is defined as a compound in which the halogen atom is attached to:",
+      "question": "Why is concentrated H₂SO₄ not used during the preparation of alkyl iodides from alcohols using KI?",
       "options": [
-        "sp³ hybridised carbon atom",
-        "sp² hybridised carbon atom",
-        "Only benzene ring",
-        "Only double bonded carbon",
-        "Nitrogen atom"
-      ],
-      "answer": 0,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "Haloalkanes contain halogen attached to an sp³ carbon atom."
-    },
-    {
-      "id": 2,
-      "type": "mcq_single",
-      "question": "Which of the following is an allylic halide?",
-      "options": [
-        "CH₂=CH–CH₂Cl",
-        "CH₂=CHCl",
-        "C₆H₅Cl",
-        "CH₃CH₂Cl",
-        "C₆H₅CH₂OH"
-      ],
-      "answer": 0,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "An allylic halide has the halogen attached to the carbon adjacent to a C=C bond."
-    },
-    {
-      "id": 3,
-      "type": "mcq_single",
-      "question": "Which of the following is a benzylic halide?",
-      "options": [
-        "C₆H₅CH₂Cl",
-        "C₆H₅Cl",
-        "CH₂=CHCl",
-        "CH₃CH₂Cl",
-        "CH₂=CHCH₂OH"
-      ],
-      "answer": 0,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "Benzylic halides have halogen attached to the carbon adjacent to a benzene ring."
-    },
-    {
-      "id": 4,
-      "type": "mcq_single",
-      "question": "Which of the following is classified as a vinylic halide?",
-      "options": [
-        "CH₂=CHCl",
-        "CH₂=CHCH₂Cl",
-        "C₆H₅CH₂Cl",
-        "CH₃CH₂Cl",
-        "CH₃Cl"
-      ],
-      "answer": 0,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "A vinylic halide has the halogen directly attached to an sp² carbon of a double bond."
-    },
-    {
-      "id": 5,
-      "type": "mcq_single",
-      "question": "When ethanol reacts with thionyl chloride (SOCl₂), the major organic product formed is:",
-      "options": [
-        "Chloroethane",
-        "Ethene",
-        "Ethanoic acid",
-        "Ethyl ether",
-        "Bromoethane"
+        "H₂SO₄ oxidizes HI to I₂",
+        "H₂SO₄ reduces KI to K",
+        "HI is too weak an acid",
+        "KI is insoluble in H₂SO₄",
+        "Alcohol does not react with KI"
       ],
       "answer": 0,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "SOCl₂ converts alcohols into alkyl chlorides while producing SO₂ and HCl gases."
+      "explanation": "H₂SO₄ oxidizes HI to iodine (I₂), decreasing the amount of HI available. Therefore H₃PO₄ is used instead."
     },
     {
-      "id": 6,
+      "id": 12,
       "type": "mcq_single",
-      "question": "Why is SOCl₂ preferred over PCl₅ for preparing alkyl chlorides from alcohols?",
+      "question": "Which acid is preferred instead of H₂SO₄ while preparing alkyl iodides from alcohols?",
       "options": [
-        "The by-products SO₂ and HCl escape as gases, giving a pure alkyl chloride.",
-        "It produces less heat.",
-        "It is cheaper.",
-        "It forms alkyl bromides.",
-        "It does not react with primary alcohols."
+        "H₃PO₄",
+        "HNO₃",
+        "HCl",
+        "CH₃COOH",
+        "HF"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Orthophosphoric acid is not an oxidizing agent and therefore does not oxidize HI."
+    },
+    {
+      "id": 13,
+      "type": "mcq_single",
+      "question": "The addition of bromine in CCl₄ to an alkene produces:",
+      "options": [
+        "Vicinal dibromide",
+        "Geminal dibromide",
+        "Alkyl bromide",
+        "Alcohol",
+        "Alkene"
       ],
       "answer": 0,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "SO₂ and HCl are gases and escape from the reaction mixture, leaving behind a purer alkyl chloride."
+      "explanation": "Br₂ adds across the double bond to form a vicinal dibromide."
     },
     {
-      "id": 7,
+      "id": 14,
       "type": "mcq_single",
-      "question": "Which reagent is used in the Finkelstein reaction?",
+      "question": "During the bromine test for unsaturation, which substance loses its reddish-brown colour?",
       "options": [
-        "NaI in dry acetone",
-        "AgF",
-        "SOCl₂",
+        "Bromine solution",
+        "Vic-dibromide",
+        "Carbon tetrachloride",
+        "Alkene",
+        "Water"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The reddish-brown colour belongs to bromine. After addition, colourless vic-dibromide is formed."
+    },
+    {
+      "id": 15,
+      "type": "mcq_single",
+      "question": "Why is carbon tetrachloride (CCl₄) used during bromination of alkenes?",
+      "options": [
+        "It acts as an inert solvent",
+        "It supplies chlorine",
+        "It acts as a catalyst",
+        "It oxidizes bromine",
+        "It reduces bromine"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "CCl₄ is an inert solvent and does not participate in the reaction."
+    },
+    {
+      "id": 16,
+      "type": "mcq_single",
+      "question": "Markovnikov's rule is applicable to the addition of:",
+      "options": [
+        "HX to an unsymmetrical alkene (without peroxide)",
+        "Br₂ to an alkene",
+        "H₂ to an alkene",
+        "Cl₂ to an alkane",
+        "NaOH to an alkyl halide"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Markovnikov's rule predicts the orientation of addition of HX across an unsymmetrical double bond in the absence of peroxide."
+    },
+    {
+      "id": 17,
+      "type": "mcq_single",
+      "question": "Anti-Markovnikov addition is observed only with:",
+      "options": [
+        "HBr in the presence of peroxide",
+        "HCl in the presence of peroxide",
+        "HI in the presence of peroxide",
+        "HF in the presence of peroxide",
+        "Br₂ in CCl₄"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The peroxide (Kharasch) effect is observed only for HBr."
+    },
+    {
+      "id": 18,
+      "type": "mcq_single",
+      "question": "Which intermediate is involved in the peroxide effect?",
+      "options": [
+        "Free radical",
+        "Carbocation",
+        "Carbanion",
+        "Carbene",
+        "Nitrene"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Anti-Markovnikov addition of HBr proceeds through a free-radical chain mechanism."
+    },
+    {
+      "id": 19,
+      "type": "mcq_single",
+      "question": "The Sandmeyer reaction is used to prepare:",
+      "options": [
+        "Aryl chlorides and aryl bromides from diazonium salts",
+        "Alkyl chlorides from alcohols",
+        "Alkyl fluorides",
+        "Vic-dibromides",
+        "Alcohols"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Sandmeyer reaction converts aryl diazonium salts into aryl chlorides, bromides or cyanides using cuprous salts."
+    },
+    {
+      "id": 20,
+      "type": "mcq_single",
+      "question": "Which reagent is used in the Sandmeyer reaction to prepare chlorobenzene from benzene diazonium chloride?",
+      "options": [
+        "CuCl/HCl",
+        "NaCl",
+        "Cl₂",
         "PCl₅",
-        "NaOH"
+        "SOCl₂"
       ],
       "answer": 0,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Finkelstein reaction converts alkyl chlorides or bromides into alkyl iodides using NaI in dry acetone."
+      "explanation": "CuCl in hydrochloric acid converts benzene diazonium chloride into chlorobenzene."
     },
-    {
-      "id": 8,
-      "type": "mcq_single",
-      "question": "What drives the Finkelstein reaction towards completion?",
-      "options": [
-        "Precipitation of NaCl or NaBr in dry acetone",
-        "Formation of HI gas",
-        "Evolution of Cl₂ gas",
-        "High temperature only",
-        "Formation of carbocation"
-      ],
-      "answer": 0,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "NaCl and NaBr are insoluble in dry acetone and precipitate out, shifting the equilibrium forward."
-    },
-    {
-      "id": 9,
-      "type": "mcq_single",
-      "question": "In the Swarts reaction, alkyl fluorides are prepared using:",
-      "options": [
-        "Metal fluorides like AgF or SbF₃",
-        "NaOH",
-        "KI",
-        "SOCl₂",
-        "HBr"
-      ],
-      "answer": 0,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "Swarts reaction uses metallic fluorides such as AgF, Hg₂F₂, CoF₂ or SbF₃."
-    },
-    {
-      "id": 10,
-      "type": "mcq_single",
-      "question": "Which of the following gives the correct order of reactivity of alcohols with a given hydrogen halide?",
-      "options": [
-        "3° > 2° > 1°",
-        "1° > 2° > 3°",
-        "2° > 3° > 1°",
-        "1° > 3° > 2°",
-        "All react equally"
-      ],
-      "answer": 0,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "The reactivity order with HX is tertiary > secondary > primary alcohol due to easier substitution."
-    },
-
     {
       "id": 21,
       "type": "mcq_single",

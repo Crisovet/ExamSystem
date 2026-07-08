@@ -1,0 +1,169 @@
+{
+  "examTitle": "Chemistry Test",
+  "subject": "Chemistry",
+  "class": 12,
+  "chapter": "Haloalkanes and Haloarenes",
+  "topic": "Preparation of Haloalkanes",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq_single",
+      "question": "Which reagent is used in the Swarts reaction for the preparation of alkyl fluorides?",
+      "options": [
+        "AgF",
+        "PCl₅",
+        "SOCl₂",
+        "NaCl",
+        "KI"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Swarts reaction involves heating an alkyl chloride/bromide in the presence of a metallic fluoride like AgF, Hg2F2, CoF2, or SbF3 to prepare alkyl fluorides."
+    },
+    {
+      "id": 2,
+      "type": "mcq_single",
+      "question": "In the Finkelstein reaction, sodium iodide in dry acetone is reacted with alkyl chlorides or bromides to form alkyl iodides. What drives this reaction forward?",
+      "options": [
+        "Precipitation of NaCl or NaBr in dry acetone",
+        "Formation of a stable carbocation",
+        "Evolution of a toxic gas",
+        "High solubility of NaI in water",
+        "Thermal decomposition of the product"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "NaCl or NaBr precipitates out in dry acetone, which drives the reversible Finkelstein reaction in the forward direction according to Le Chatelier's principle."
+    },
+    {
+      "id": 3,
+      "type": "mcq_single",
+      "question": "The addition of HBr to propene in the presence of benzoyl peroxide yields 1-bromopropane instead of 2-bromopropane. This anti-Markovnikov addition operates via which intermediate?",
+      "options": [
+        "Free radical",
+        "Carbocation",
+        "Carbanion",
+        "Carbene",
+        "Cyclic halonium ion"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The peroxide effect (Kharasch effect) proceeds via a free-radical chain mechanism, leading to anti-Markovnikov addition for HBr."
+    },
+    {
+      "id": 4,
+      "type": "mcq_single",
+      "question": "Which of the following alcohols reacts fastest with Lucas reagent (anhydrous ZnCl₂ and concentrated HCl) at room temperature?",
+      "options": [
+        "2-Methylpropan-2-ol (tert-butyl alcohol)",
+        "Propan-1-ol",
+        "Butan-1-ol",
+        "Butan-2-ol",
+        "Ethanol"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The reaction proceeds via an SN1 mechanism involving a carbocation intermediate. Tertiary alcohols form the most stable carbocation and react instantly."
+    },
+    {
+      "id": 5,
+      "type": "mcq_single",
+      "question": "Allylic bromination of alkenes can be efficiently carried out using which of the following specialized reagents?",
+      "options": [
+        "NBS (N-Bromosuccinimide)",
+        "Aqueous KOH",
+        "KMnO₄/H⁺",
+        "LiAlH₄",
+        "PCl₃"
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "NBS is a specific reagent used for allylic and benzylic bromination under controlled free radical conditions without affecting the double bond."
+    },
+    {
+      "id": 6,
+      "type": "mcq_single",
+      "question": "What are the primary organic and inorganic by-products formed when an alcohol reacts with phosphorus pentachloride (PCl₅)?",
+      "options": [
+        "Alkyl chloride, POCl₃, and HCl",
+        "Alkyl chloride and H₃PO₃",
+        "Alkene and H₂O",
+        "Ether and POCl₃",
+        "Alkyl chloride and Cl₂ gas"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The reaction of alcohols with PCl5 produces alkyl chloride, phosphorus oxychloride (POCl3), and hydrogen chloride (HCl)."
+    },
+    {
+      "id": 7,
+      "type": "mcq_single",
+      "question": "When silver salts of carboxylic acids are refluxed with bromine in carbon tetrachloride, a decarboxylation-bromination takes place to form an alkyl bromide. This reaction is known as:",
+      "options": [
+        "Hunsdiecker reaction",
+        "Sandmeyer reaction",
+        "Wurtz reaction",
+        "Fittig reaction",
+        "Gattermann reaction"
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "The Hunsdiecker reaction involves the action of bromine on a silver salt of a carboxylic acid to yield an alkyl or aryl halide with one carbon less."
+    },
+    {
+      "id": 8,
+      "type": "mcq_single",
+      "question": "Why is direct iodination of alkanes with iodine an reversible reaction requiring an oxidizing agent like HIO₃ or HNO₃?",
+      "options": [
+        "HI formed is a strong reducing agent which reduces the alkyl iodide back to alkane",
+        "Iodine is a gas and escapes easily",
+        "Iodine does not react with alkanes at all",
+        "Iodine forms explosive complexes with methane",
+        "The reaction is endothermic to an extreme extent"
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Direct iodination is reversible because HI is a strong reducing agent. Strong oxidizing agents are added to oxidize HI to I2 and push the equilibrium forward."
+    },
+    {
+      "id": 9,
+      "type": "mcq_single",
+      "question": "Which of the following hydrogen halides adds to alkenes in direct violation of Markovnikov's rule even in the absence of added peroxides?",
+      "options": [
+        "None (all add via Markovnikov's rule in the absence of peroxides)",
+        "HI",
+        "HCl",
+        "HF",
+        "HBr"
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "In the absence of peroxides, all hydrogen halides (HCl, HBr, HI) add across unsymmetrical alkenes following Markovnikov's rule via carbocation pathways."
+    },
+    {
+      "id": 10,
+      "type": "mcq_single",
+      "question": "In the preparation of alkyl chlorides from alcohols using red phosphorus and halogen (Cl₂), what active trihalide species is typically generated in situ?",
+      "options": [
+        "PCl₃",
+        "PCl₅",
+        "POCl₃",
+        "PCl",
+        "HCl"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Red phosphorus reacts with chlorine or bromine in situ to generate phosphorus trihalides (PCl3 or PBr3) which then convert the alcohol into the corresponding alkyl halide."
+    }
+  ]
+}

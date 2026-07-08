@@ -1,0 +1,498 @@
+{
+  "examTitle": "Chemistry Test",
+  "subject": "Chemistry",
+  "class": 12,
+  "chapter": "Haloalkanes and Haloarenes",
+  "topic": "From Introduction to Nucleophilic Substitution (Excluding SN1 & SN2)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq_single",
+      "question": "A haloalkane is defined as a compound in which the halogen atom is attached to:",
+      "options": [
+        "sp³ hybridised carbon atom",
+        "sp² hybridised carbon atom",
+        "Only benzene ring",
+        "Only double bonded carbon",
+        "Nitrogen atom"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Haloalkanes contain halogen attached to an sp³ carbon atom."
+    },
+    {
+      "id": 2,
+      "type": "mcq_single",
+      "question": "Which of the following is an allylic halide?",
+      "options": [
+        "CH₂=CH–CH₂Cl",
+        "CH₂=CHCl",
+        "C₆H₅Cl",
+        "CH₃CH₂Cl",
+        "C₆H₅CH₂OH"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "An allylic halide has the halogen attached to the carbon adjacent to a C=C bond."
+    },
+    {
+      "id": 3,
+      "type": "mcq_single",
+      "question": "Which of the following is a benzylic halide?",
+      "options": [
+        "C₆H₅CH₂Cl",
+        "C₆H₅Cl",
+        "CH₂=CHCl",
+        "CH₃CH₂Cl",
+        "CH₂=CHCH₂OH"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Benzylic halides have halogen attached to the carbon adjacent to a benzene ring."
+    },
+    {
+      "id": 4,
+      "type": "mcq_single",
+      "question": "Which of the following is classified as a vinylic halide?",
+      "options": [
+        "CH₂=CHCl",
+        "CH₂=CHCH₂Cl",
+        "C₆H₅CH₂Cl",
+        "CH₃CH₂Cl",
+        "CH₃Cl"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "A vinylic halide has the halogen directly attached to an sp² carbon of a double bond."
+    },
+    {
+      "id": 5,
+      "type": "mcq_single",
+      "question": "When ethanol reacts with thionyl chloride (SOCl₂), the major organic product formed is:",
+      "options": [
+        "Chloroethane",
+        "Ethene",
+        "Ethanoic acid",
+        "Ethyl ether",
+        "Bromoethane"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "SOCl₂ converts alcohols into alkyl chlorides while producing SO₂ and HCl gases."
+    },
+    {
+      "id": 6,
+      "type": "mcq_single",
+      "question": "Why is SOCl₂ preferred over PCl₅ for preparing alkyl chlorides from alcohols?",
+      "options": [
+        "The by-products SO₂ and HCl escape as gases, giving a pure alkyl chloride.",
+        "It produces less heat.",
+        "It is cheaper.",
+        "It forms alkyl bromides.",
+        "It does not react with primary alcohols."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "SO₂ and HCl are gases and escape from the reaction mixture, leaving behind a purer alkyl chloride."
+    },
+    {
+      "id": 7,
+      "type": "mcq_single",
+      "question": "Which reagent is used in the Finkelstein reaction?",
+      "options": [
+        "NaI in dry acetone",
+        "AgF",
+        "SOCl₂",
+        "PCl₅",
+        "NaOH"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Finkelstein reaction converts alkyl chlorides or bromides into alkyl iodides using NaI in dry acetone."
+    },
+    {
+      "id": 8,
+      "type": "mcq_single",
+      "question": "What drives the Finkelstein reaction towards completion?",
+      "options": [
+        "Precipitation of NaCl or NaBr in dry acetone",
+        "Formation of HI gas",
+        "Evolution of Cl₂ gas",
+        "High temperature only",
+        "Formation of carbocation"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "NaCl and NaBr are insoluble in dry acetone and precipitate out, shifting the equilibrium forward."
+    },
+    {
+      "id": 9,
+      "type": "mcq_single",
+      "question": "In the Swarts reaction, alkyl fluorides are prepared using:",
+      "options": [
+        "Metal fluorides like AgF or SbF₃",
+        "NaOH",
+        "KI",
+        "SOCl₂",
+        "HBr"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Swarts reaction uses metallic fluorides such as AgF, Hg₂F₂, CoF₂ or SbF₃."
+    },
+    {
+      "id": 10,
+      "type": "mcq_single",
+      "question": "Which of the following gives the correct order of reactivity of alcohols with a given hydrogen halide?",
+      "options": [
+        "3° > 2° > 1°",
+        "1° > 2° > 3°",
+        "2° > 3° > 1°",
+        "1° > 3° > 2°",
+        "All react equally"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The reactivity order with HX is tertiary > secondary > primary alcohol due to easier substitution."
+    },
+
+   {
+  "examTitle": "Chemistry Test",
+  "subject": "Chemistry",
+  "class": 12,
+  "chapter": "Haloalkanes and Haloarenes",
+  "topic": "From Introduction to Nucleophilic Substitution (Excluding SN1 & SN2)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq_single",
+      "question": "A haloalkane is defined as a compound in which the halogen atom is attached to:",
+      "options": [
+        "sp³ hybridised carbon atom",
+        "sp² hybridised carbon atom",
+        "Only benzene ring",
+        "Only double bonded carbon",
+        "Nitrogen atom"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Haloalkanes contain halogen attached to an sp³ carbon atom."
+    },
+    {
+      "id": 2,
+      "type": "mcq_single",
+      "question": "Which of the following is an allylic halide?",
+      "options": [
+        "CH₂=CH–CH₂Cl",
+        "CH₂=CHCl",
+        "C₆H₅Cl",
+        "CH₃CH₂Cl",
+        "C₆H₅CH₂OH"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "An allylic halide has the halogen attached to the carbon adjacent to a C=C bond."
+    },
+    {
+      "id": 3,
+      "type": "mcq_single",
+      "question": "Which of the following is a benzylic halide?",
+      "options": [
+        "C₆H₅CH₂Cl",
+        "C₆H₅Cl",
+        "CH₂=CHCl",
+        "CH₃CH₂Cl",
+        "CH₂=CHCH₂OH"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Benzylic halides have halogen attached to the carbon adjacent to a benzene ring."
+    },
+    {
+      "id": 4,
+      "type": "mcq_single",
+      "question": "Which of the following is classified as a vinylic halide?",
+      "options": [
+        "CH₂=CHCl",
+        "CH₂=CHCH₂Cl",
+        "C₆H₅CH₂Cl",
+        "CH₃CH₂Cl",
+        "CH₃Cl"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "A vinylic halide has the halogen directly attached to an sp² carbon of a double bond."
+    },
+    {
+      "id": 5,
+      "type": "mcq_single",
+      "question": "When ethanol reacts with thionyl chloride (SOCl₂), the major organic product formed is:",
+      "options": [
+        "Chloroethane",
+        "Ethene",
+        "Ethanoic acid",
+        "Ethyl ether",
+        "Bromoethane"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "SOCl₂ converts alcohols into alkyl chlorides while producing SO₂ and HCl gases."
+    },
+    {
+      "id": 6,
+      "type": "mcq_single",
+      "question": "Why is SOCl₂ preferred over PCl₅ for preparing alkyl chlorides from alcohols?",
+      "options": [
+        "The by-products SO₂ and HCl escape as gases, giving a pure alkyl chloride.",
+        "It produces less heat.",
+        "It is cheaper.",
+        "It forms alkyl bromides.",
+        "It does not react with primary alcohols."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "SO₂ and HCl are gases and escape from the reaction mixture, leaving behind a purer alkyl chloride."
+    },
+    {
+      "id": 7,
+      "type": "mcq_single",
+      "question": "Which reagent is used in the Finkelstein reaction?",
+      "options": [
+        "NaI in dry acetone",
+        "AgF",
+        "SOCl₂",
+        "PCl₅",
+        "NaOH"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Finkelstein reaction converts alkyl chlorides or bromides into alkyl iodides using NaI in dry acetone."
+    },
+    {
+      "id": 8,
+      "type": "mcq_single",
+      "question": "What drives the Finkelstein reaction towards completion?",
+      "options": [
+        "Precipitation of NaCl or NaBr in dry acetone",
+        "Formation of HI gas",
+        "Evolution of Cl₂ gas",
+        "High temperature only",
+        "Formation of carbocation"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "NaCl and NaBr are insoluble in dry acetone and precipitate out, shifting the equilibrium forward."
+    },
+    {
+      "id": 9,
+      "type": "mcq_single",
+      "question": "In the Swarts reaction, alkyl fluorides are prepared using:",
+      "options": [
+        "Metal fluorides like AgF or SbF₃",
+        "NaOH",
+        "KI",
+        "SOCl₂",
+        "HBr"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Swarts reaction uses metallic fluorides such as AgF, Hg₂F₂, CoF₂ or SbF₃."
+    },
+    {
+      "id": 10,
+      "type": "mcq_single",
+      "question": "Which of the following gives the correct order of reactivity of alcohols with a given hydrogen halide?",
+      "options": [
+        "3° > 2° > 1°",
+        "1° > 2° > 3°",
+        "2° > 3° > 1°",
+        "1° > 3° > 2°",
+        "All react equally"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The reactivity order with HX is tertiary > secondary > primary alcohol due to easier substitution."
+    },
+
+    {
+      "id": 21,
+      "type": "mcq_single",
+      "question": "Haloalkanes generally have higher boiling points than the corresponding alkanes because:",
+      "options": [
+        "They possess stronger van der Waals forces due to higher molecular mass and polarity",
+        "They form hydrogen bonds",
+        "They are ionic compounds",
+        "They contain double bonds",
+        "They are highly soluble in water"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Haloalkanes have stronger intermolecular forces than alkanes because of their higher molecular mass and polar C–X bond."
+    },
+    {
+      "id": 22,
+      "type": "mcq_single",
+      "question": "Which of the following haloalkanes has the highest boiling point?",
+      "options": [
+        "n-Butyl chloride",
+        "Isobutyl chloride",
+        "tert-Butyl chloride",
+        "sec-Butyl chloride",
+        "Methyl chloride"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Straight-chain haloalkanes have greater surface area and stronger van der Waals forces than their branched isomers."
+    },
+    {
+      "id": 23,
+      "type": "mcq_single",
+      "question": "Haloalkanes are only sparingly soluble in water because:",
+      "options": [
+        "They cannot effectively replace the hydrogen bonding between water molecules",
+        "They are non-polar compounds",
+        "They react immediately with water",
+        "They have very low density",
+        "They form ionic bonds with water"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The weak interactions formed between haloalkanes and water cannot compensate for the strong hydrogen bonds between water molecules."
+    },
+    {
+      "id": 24,
+      "type": "mcq_single",
+      "question": "In haloalkanes, the carbon attached to the halogen atom carries:",
+      "options": [
+        "A partial positive charge (δ⁺)",
+        "A complete positive charge",
+        "A partial negative charge",
+        "No charge at all",
+        "A +2 charge"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Since halogens are more electronegative than carbon, the C–X bond is polar with carbon carrying δ⁺."
+    },
+    {
+      "id": 25,
+      "type": "mcq_single",
+      "question": "Which of the following is the best nucleophile among the given reagents for converting an alkyl halide into an alcohol?",
+      "options": [
+        "OH⁻",
+        "Cl⁻",
+        "H₂O",
+        "Br₂",
+        "HCl"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Hydroxide ion (OH⁻) is a strong nucleophile and readily replaces the halogen atom."
+    },
+    {
+      "id": 26,
+      "type": "mcq_single",
+      "question": "Treatment of CH₃CH₂Br with sodium methoxide (CH₃ONa) gives:",
+      "options": [
+        "CH₃CH₂OCH₃",
+        "CH₃CH₂OH",
+        "CH₃CH₃",
+        "CH₃CH₂NH₂",
+        "CH₃CH₂Cl"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Alkoxides replace halogens in haloalkanes to form ethers."
+    },
+    {
+      "id": 27,
+      "type": "mcq_single",
+      "question": "Treatment of CH₃CH₂Br with LiAlH₄ produces:",
+      "options": [
+        "CH₃CH₃",
+        "CH₃CH₂OH",
+        "CH₃CH₂NH₂",
+        "CH₃CH₂CN",
+        "CH₃CH₂I"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "LiAlH₄ is a strong reducing agent that replaces the halogen atom with hydrogen."
+    },
+    {
+      "id": 28,
+      "type": "mcq_single",
+      "question": "Reaction of CH₃CH₂Br with KCN produces:",
+      "options": [
+        "CH₃CH₂CN",
+        "CH₃CH₂NC",
+        "CH₃CH₂NO₂",
+        "CH₃CH₂ONO",
+        "CH₃CH₃"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "KCN is ionic and provides free CN⁻, which attacks through carbon to form a nitrile."
+    },
+    {
+      "id": 29,
+      "type": "mcq_single",
+      "question": "Reaction of CH₃CH₂Br with AgNO₂ gives:",
+      "options": [
+        "CH₃CH₂NO₂",
+        "CH₃CH₂ONO",
+        "CH₃CH₂CN",
+        "CH₃CH₂NC",
+        "CH₃CH₂OH"
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "AgNO₂ is covalent. Nitrogen attacks the alkyl halide to form a nitroalkane."
+    },
+    {
+      "id": 30,
+      "type": "mcq_single",
+      "question": "Which pair of reagents forms an ambident nucleophile in nucleophilic substitution reactions?",
+      "options": [
+        "KCN and KNO₂",
+        "NaOH and NH₃",
+        "NaI and LiAlH₄",
+        "SOCl₂ and PCl₅",
+        "HCl and HBr"
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "CN⁻ and NO₂⁻ are ambident nucleophiles because each can attack through two different atoms (C/N and O/N respectively)."
+    }
+  ]
+}

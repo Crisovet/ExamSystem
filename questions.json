@@ -166,6 +166,167 @@
       "explanation": "The reactivity order with HX is tertiary > secondary > primary alcohol due to easier substitution."
     },
     {
+      "id": 11,
+      "type": "mcq_single",
+      "question": "Why is concentrated H₂SO₄ not used during the preparation of alkyl iodides from alcohols using KI?",
+      "options": [
+        "H₂SO₄ oxidizes HI to I₂",
+        "H₂SO₄ reduces KI to K",
+        "HI is too weak an acid",
+        "KI is insoluble in H₂SO₄",
+        "Alcohol does not react with KI"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "H₂SO₄ oxidizes HI to iodine (I₂), decreasing the amount of HI available. Therefore H₃PO₄ is used instead."
+    },
+    {
+      "id": 12,
+      "type": "mcq_single",
+      "question": "Which acid is preferred instead of H₂SO₄ while preparing alkyl iodides from alcohols?",
+      "options": [
+        "H₃PO₄",
+        "HNO₃",
+        "HCl",
+        "CH₃COOH",
+        "HF"
+      ],
+      "answer": 0,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Orthophosphoric acid is not an oxidizing agent and therefore does not oxidize HI."
+    },
+    {
+      "id": 13,
+      "type": "mcq_single",
+      "question": "The addition of bromine in CCl₄ to an alkene produces:",
+      "options": [
+        "Vicinal dibromide",
+        "Geminal dibromide",
+        "Alkyl bromide",
+        "Alcohol",
+        "Alkene"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Br₂ adds across the double bond to form a vicinal dibromide."
+    },
+    {
+      "id": 14,
+      "type": "mcq_single",
+      "question": "During the bromine test for unsaturation, which substance loses its reddish-brown colour?",
+      "options": [
+        "Bromine solution",
+        "Vic-dibromide",
+        "Carbon tetrachloride",
+        "Alkene",
+        "Water"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The reddish-brown colour belongs to bromine. After addition, colourless vic-dibromide is formed."
+    },
+    {
+      "id": 15,
+      "type": "mcq_single",
+      "question": "Why is carbon tetrachloride (CCl₄) used during bromination of alkenes?",
+      "options": [
+        "It acts as an inert solvent",
+        "It supplies chlorine",
+        "It acts as a catalyst",
+        "It oxidizes bromine",
+        "It reduces bromine"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "CCl₄ is an inert solvent and does not participate in the reaction."
+    },
+    {
+      "id": 16,
+      "type": "mcq_single",
+      "question": "Markovnikov's rule is applicable to the addition of:",
+      "options": [
+        "HX to an unsymmetrical alkene (without peroxide)",
+        "Br₂ to an alkene",
+        "H₂ to an alkene",
+        "Cl₂ to an alkane",
+        "NaOH to an alkyl halide"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Markovnikov's rule predicts the orientation of addition of HX across an unsymmetrical double bond in the absence of peroxide."
+    },
+    {
+      "id": 17,
+      "type": "mcq_single",
+      "question": "Anti-Markovnikov addition is observed only with:",
+      "options": [
+        "HBr in the presence of peroxide",
+        "HCl in the presence of peroxide",
+        "HI in the presence of peroxide",
+        "HF in the presence of peroxide",
+        "Br₂ in CCl₄"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The peroxide (Kharasch) effect is observed only for HBr."
+    },
+    {
+      "id": 18,
+      "type": "mcq_single",
+      "question": "Which intermediate is involved in the peroxide effect?",
+      "options": [
+        "Free radical",
+        "Carbocation",
+        "Carbanion",
+        "Carbene",
+        "Nitrene"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Anti-Markovnikov addition of HBr proceeds through a free-radical chain mechanism."
+    },
+    {
+      "id": 19,
+      "type": "mcq_single",
+      "question": "The Sandmeyer reaction is used to prepare:",
+      "options": [
+        "Aryl chlorides and aryl bromides from diazonium salts",
+        "Alkyl chlorides from alcohols",
+        "Alkyl fluorides",
+        "Vic-dibromides",
+        "Alcohols"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Sandmeyer reaction converts aryl diazonium salts into aryl chlorides, bromides or cyanides using cuprous salts."
+    },
+    {
+      "id": 20,
+      "type": "mcq_single",
+      "question": "Which reagent is used in the Sandmeyer reaction to prepare chlorobenzene from benzene diazonium chloride?",
+      "options": [
+        "CuCl/HCl",
+        "NaCl",
+        "Cl₂",
+        "PCl₅",
+        "SOCl₂"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "CuCl in hydrochloric acid converts benzene diazonium chloride into chlorobenzene."
+    },
+
+    {
       "id": 21,
       "type": "mcq_single",
       "question": "Haloalkanes generally have higher boiling points than the corresponding alkanes because:",

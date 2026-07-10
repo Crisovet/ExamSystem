@@ -3,207 +3,239 @@
   "subject": "Chemistry",
   "class": 12,
   "chapter": "Haloalkanes and Haloarenes",
-  "topic": "Classification to Chirality (Part 1)",
+  "topic": "Part 1",
   "questions": [
     {
       "id": 1,
       "type": "mcq_single",
-      "question": "Which of the following is a benzylic halide?",
+      "question": "The correct IUPAC name of CH3CHBrCH2CH3 is:",
       "options": [
-        "CH2=CHCH2Cl",
-        "C6H5CH2Cl",
-        "C6H5Cl",
-        "CH2=CHCl",
-        "CH3CH2Cl"
+        "1-Bromobutane",
+        "2-Bromobutane",
+        "Butyl bromide",
+        "3-Bromobutane",
+        "Bromobutane"
       ],
       "answer": 1,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "In benzylic halides, the halogen is attached to the carbon adjacent to the benzene ring."
+      "explanation": "Bromine is attached to carbon-2 of butane."
     },
     {
       "id": 2,
       "type": "mcq_single",
-      "question": "The IUPAC name of CH3CH2CH2Br is:",
+      "question": "Which of the following is a vinylic halide?",
       "options": [
-        "2-Bromopropane",
-        "1-Bromobutane",
-        "Propyl bromide",
-        "1-Bromopropane",
-        "Bromopropane"
+        "CH2=CHCl",
+        "CH2=CHCH2Cl",
+        "C6H5CH2Cl",
+        "CH3CH2Cl",
+        "C6H5Cl"
       ],
-      "answer": 3,
+      "answer": 0,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "The bromine atom is attached to carbon-1 of propane."
+      "explanation": "In a vinylic halide, the halogen is directly attached to a double-bonded carbon."
     },
     {
       "id": 3,
       "type": "mcq_single",
-      "question": "Which reagent is preferred for preparing alkyl chlorides from alcohols because its by-products escape as gases?",
+      "question": "Which of the following is an allylic halide?",
       "options": [
-        "PCl5",
-        "NaCl",
-        "SOCl2",
-        "HCl",
-        "PBr3"
+        "C6H5CH2Cl",
+        "CH2=CHCH2Br",
+        "CH2=CHCl",
+        "CH3CH2Br",
+        "C6H5Br"
       ],
-      "answer": 2,
+      "answer": 1,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "SOCl2 produces SO2 and HCl gases, making purification easier."
+      "explanation": "The halogen is attached to the carbon adjacent to a C=C bond."
     },
     {
       "id": 4,
       "type": "mcq_single",
-      "question": "Which reaction converts alkyl chlorides or bromides into alkyl iodides?",
+      "question": "The C–Cl bond in chloroethane is:",
       "options": [
-        "Swarts reaction",
-        "Sandmeyer reaction",
-        "Finkelstein reaction",
-        "Hunsdiecker reaction",
-        "Wurtz reaction"
+        "Non-polar covalent",
+        "Ionic",
+        "Coordinate",
+        "Polar covalent",
+        "Hydrogen bond"
       ],
-      "answer": 2,
-      "difficulty": 2,
+      "answer": 3,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "Finkelstein reaction uses NaI in dry acetone to prepare alkyl iodides."
+      "explanation": "Chlorine is more electronegative than carbon, making the C–Cl bond polar covalent."
     },
     {
       "id": 5,
       "type": "mcq_single",
-      "question": "In the Swarts reaction, alkyl fluorides are prepared using:",
+      "question": "Which reagent is preferred for converting alcohols into alkyl chlorides because its by-products are gases?",
       "options": [
-        "Metal fluorides such as AgF",
-        "NaF solution",
-        "HF only",
-        "F2 gas",
-        "CaCl2"
+        "PCl5",
+        "SOCl2",
+        "NaCl",
+        "HCl",
+        "PCl3"
       ],
-      "answer": 0,
+      "answer": 1,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Metal fluorides like AgF, SbF3, Hg2F2 and CoF2 are used."
+      "explanation": "SOCl2 forms SO2 and HCl gases, making purification easier."
     },
     {
       "id": 6,
       "type": "mcq_single",
-      "question": "Which of the following statements about haloalkanes is correct?",
+      "question": "The Finkelstein reaction is mainly used to prepare:",
       "options": [
-        "They are ionic compounds.",
-        "The C-X bond is polar covalent.",
-        "The C-X bond is non-polar.",
-        "They always form hydrogen bonds.",
-        "Carbon carries a partial negative charge."
-      ],
-      "answer": 1,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "The C-X bond is polar because halogens are more electronegative than carbon."
-    },
-    {
-      "id": 7,
-      "type": "mcq_single",
-      "question": "Haloalkanes have higher boiling points than corresponding alkanes mainly because:",
-      "options": [
-        "They form hydrogen bonds.",
-        "They are ionic.",
-        "They have stronger intermolecular forces.",
-        "They contain oxygen.",
-        "They are unsaturated."
+        "Alkyl fluorides",
+        "Alkyl bromides",
+        "Alkyl iodides",
+        "Alkyl chlorides",
+        "Alcohols"
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Their larger molecular mass and stronger van der Waals forces increase boiling point."
+      "explanation": "NaI in dry acetone converts alkyl chlorides or bromides into alkyl iodides."
+    },
+    {
+      "id": 7,
+      "type": "mcq_single",
+      "question": "Which reagent is commonly used in the Swarts reaction?",
+      "options": [
+        "AgF",
+        "NaI",
+        "SOCl2",
+        "PCl5",
+        "NaOH"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Metal fluorides such as AgF are used to prepare alkyl fluorides."
     },
     {
       "id": 8,
       "type": "mcq_single",
-      "question": "Which compound has the highest boiling point?",
+      "question": "Haloalkanes generally have higher boiling points than corresponding alkanes because they possess:",
       "options": [
-        "tert-Butyl chloride",
-        "n-Butyl chloride",
-        "Isobutyl chloride",
-        "sec-Butyl chloride",
-        "Methyl chloride"
+        "Hydrogen bonding",
+        "Ionic bonding",
+        "Stronger intermolecular forces",
+        "Double bonds",
+        "Metallic bonding"
       ],
-      "answer": 1,
+      "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Straight-chain molecules have greater surface area and stronger intermolecular attractions."
+      "explanation": "Greater molecular mass and polar C–X bonds increase intermolecular attractions."
     },
     {
       "id": 9,
       "type": "mcq_single",
-      "question": "Reaction of bromoethane with aqueous NaOH gives:",
+      "question": "Which of the following has the highest boiling point?",
       "options": [
-        "Ethylamine",
+        "n-Butyl chloride",
+        "Isobutyl chloride",
+        "tert-Butyl chloride",
+        "Methyl chloride",
+        "sec-Butyl chloride"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Straight-chain haloalkanes have greater surface area and stronger van der Waals forces."
+    },
+    {
+      "id": 10,
+      "type": "mcq_single",
+      "question": "Haloalkanes are only sparingly soluble in water mainly because:",
+      "options": [
+        "They are ionic.",
+        "They cannot replace the strong hydrogen bonding between water molecules.",
+        "They react immediately with water.",
+        "They are completely non-polar.",
+        "Their boiling points are high."
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The weak interactions between haloalkanes and water cannot compensate for breaking water-water hydrogen bonds."
+    },
+    {
+      "id": 11,
+      "type": "mcq_single",
+      "question": "When bromoethane reacts with aqueous NaOH, the major product is:",
+      "options": [
         "Ethene",
+        "Ethylamine",
         "Ethanol",
-        "Ethyl bromide",
+        "Ethyl cyanide",
         "Ethyl iodide"
       ],
       "answer": 2,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "OH⁻ replaces Br to form ethanol."
-    },
-    {
-      "id": 10,
-      "type": "mcq_single",
-      "question": "Which product is formed when CH3CH2Br reacts with KCN?",
-      "options": [
-        "CH3CH2NO2",
-        "CH3CH2NC",
-        "CH3CH2OH",
-        "CH3CH2CN",
-        "CH3CH2ONO"
-      ],
-      "answer": 3,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "KCN is ionic and attacks through carbon to produce a nitrile (RCN)."
-    },
-    {
-      "id": 11,
-      "type": "mcq_single",
-      "question": "Reaction of bromoethane with AgCN gives:",
-      "options": [
-        "CH3CH2OH",
-        "CH3CH2CN",
-        "CH3CH2NC",
-        "CH3CH2NO2",
-        "CH3CH2ONO"
-      ],
-      "answer": 2,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "AgCN is covalent. Nitrogen attacks the alkyl halide to form an isocyanide."
+      "explanation": "OH⁻ replaces Br to form ethanol by nucleophilic substitution."
     },
     {
       "id": 12,
       "type": "mcq_single",
-      "question": "CH3Br reacts with KNO2 to produce:",
+      "question": "Bromoethane reacts with KCN to form:",
       "options": [
-        "CH3ONO",
-        "CH3OH",
-        "CH3NO2",
-        "CH3NC",
-        "CH3CN"
+        "CH3CH2NC",
+        "CH3CH2CN",
+        "CH3CH2NO2",
+        "CH3CH2ONO",
+        "CH3CH2OH"
       ],
-      "answer": 0,
+      "answer": 1,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "KNO2 is ionic and attacks through oxygen to form an alkyl nitrite."
+      "explanation": "KCN is ionic and attacks through carbon to form a nitrile (RCN)."
     },
     {
       "id": 13,
       "type": "mcq_single",
-      "question": "Which product is formed when CH3Br reacts with AgNO2?",
+      "question": "Reaction of bromoethane with AgCN gives:",
       "options": [
-        "CH3OH",
+        "CH3CH2CN",
+        "CH3CH2OH",
+        "CH3CH2NC",
+        "CH3CH2NO2",
+        "CH3CH2Br"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "AgCN is covalent and nitrogen attacks the alkyl halide to form an isocyanide."
+    },
+    {
+      "id": 14,
+      "type": "mcq_single",
+      "question": "CH3Br reacts with KNO2 to produce:",
+      "options": [
+        "CH3NO2",
         "CH3ONO",
+        "CH3NC",
+        "CH3OH",
+        "CH3CN"
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "KNO2 attacks through oxygen to form an alkyl nitrite (RONO)."
+    },
+    {
+      "id": 15,
+      "type": "mcq_single",
+      "question": "Which product is obtained when CH3Br reacts with AgNO2?",
+      "options": [
+        "CH3ONO",
+        "CH3OH",
         "CH3NO2",
         "CH3CN",
         "CH3NC"
@@ -211,28 +243,12 @@
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "AgNO2 is covalent and attacks through nitrogen to form a nitroalkane."
+      "explanation": "AgNO2 attacks through nitrogen to form a nitroalkane."
     },
     {
-      "id": 14,
+      "id": 16,
       "type": "mcq_single",
-      "question": "Reduction of bromoethane using LiAlH4 produces:",
-      "options": [
-        "Ethanol",
-        "Ethane",
-        "Ethene",
-        "Ethylamine",
-        "Ethyl iodide"
-      ],
-      "answer": 1,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "LiAlH4 replaces the halogen atom with hydrogen."
-    },
-    {
-      "id": 15,
-      "type": "mcq_single",
-      "question": "Which substrate undergoes SN2 most readily?",
+      "question": "Which substrate undergoes SN2 reaction most readily?",
       "options": [
         "(CH3)3CBr",
         "CH3CHBrCH3",
@@ -243,60 +259,172 @@
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Methyl halides have almost no steric hindrance and react fastest by SN2."
+      "explanation": "Methyl halides have the least steric hindrance and undergo SN2 most readily."
     },
     {
-      "id": 16,
+      "id": 17,
       "type": "mcq_single",
-      "question": "Which substrate undergoes SN1 most readily?",
+      "question": "Which of the following substrates most readily undergoes SN1 reaction?",
       "options": [
         "CH3Cl",
         "CH3CH2Cl",
         "(CH3)3CCl",
         "CH3CHClCH3",
-        "CH2=CHCH2Cl"
+        "CH3CH2CH2Cl"
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Tertiary carbocations are the most stable and therefore favor SN1."
+      "explanation": "Tertiary alkyl halides form the most stable carbocations and favor SN1."
     },
     {
-      "id": 17,
+      "id": 18,
       "type": "mcq_single",
       "question": "SN2 reactions proceed through:",
       "options": [
-        "A free radical intermediate",
         "A carbocation intermediate",
         "A one-step mechanism",
-        "A carbanion intermediate",
-        "Two transition states"
+        "A free radical intermediate",
+        "Two intermediates",
+        "A carbanion intermediate"
       ],
-      "answer": 2,
+      "answer": 1,
       "difficulty": 1,
       "marks": 1,
       "explanation": "SN2 is a concerted one-step reaction with no intermediate."
     },
     {
-      "id": 18,
+      "id": 19,
       "type": "mcq_single",
-      "question": "The rate law for an SN1 reaction is:",
+      "question": "The rate of an SN1 reaction depends on:",
       "options": [
-        "Rate = k[R-X][Nu⁻]",
-        "Rate = k[Nu⁻]",
-        "Rate = k[R-X]",
-        "Rate = k[X⁻]",
-        "Rate = k[R-X]²"
+        "Only the concentration of the alkyl halide",
+        "Only the concentration of the nucleophile",
+        "Both alkyl halide and nucleophile",
+        "Only the solvent",
+        "Only the leaving group"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The slow step is carbocation formation, so the rate depends only on the substrate."
+    },
+    {
+      "id": 20,
+      "type": "mcq_single",
+      "question": "Which statement is correct regarding SN2 reactions?",
+      "options": [
+        "They proceed through a carbocation.",
+        "They generally produce racemisation.",
+        "They occur by backside attack.",
+        "They are favored by tertiary alkyl halides.",
+        "Their rate depends only on the substrate."
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "The slow step involves only the alkyl halide, so the rate depends only on its concentration."
+      "explanation": "SN2 reactions occur by backside attack and lead to inversion of configuration."
     },
     {
-      "id": 19,
+      "id": 21,
       "type": "mcq_single",
-      "question": "Which solvent generally favors SN2 reactions?",
+      "question": "A carbon atom is chiral when it is attached to:",
+      "options": [
+        "Four hydrogen atoms",
+        "Three different groups",
+        "Four different groups",
+        "Two identical and two different groups",
+        "Four identical groups"
+      ],
+      "answer": 2,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "A chiral carbon must be bonded to four different groups."
+    },
+    {
+      "id": 22,
+      "type": "mcq_single",
+      "question": "Two molecules that are non-superimposable mirror images of each other are called:",
+      "options": [
+        "Geometrical isomers",
+        "Enantiomers",
+        "Homologues",
+        "Structural isomers",
+        "Tautomers"
+      ],
+      "answer": 1,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Enantiomers are mirror images that cannot be superimposed."
+    },
+    {
+      "id": 23,
+      "type": "mcq_single",
+      "question": "SN1 reaction at a chiral carbon generally results in:",
+      "options": [
+        "Only inversion of configuration",
+        "Only retention of configuration",
+        "Racemisation",
+        "No substitution",
+        "Formation of an alkene"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "A planar carbocation allows attack from both sides, leading to racemisation."
+    },
+    {
+      "id": 24,
+      "type": "mcq_single",
+      "question": "SN2 reaction at a chiral carbon produces:",
+      "options": [
+        "Racemisation",
+        "Retention of configuration",
+        "Inversion of configuration",
+        "No change in configuration",
+        "A carbocation intermediate"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Backside attack in SN2 causes Walden inversion."
+    },
+    {
+      "id": 25,
+      "type": "mcq_single",
+      "question": "Which of the following molecules is achiral?",
+      "options": [
+        "CH3CH(OH)CH2Cl",
+        "CH3CH(Cl)Br",
+        "(CH3)2CHOH",
+        "CH3CH(NH2)Cl",
+        "CH3CH(OH)CH2CH3"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The central carbon has two identical CH3 groups, so it is achiral."
+    },
+    {
+      "id": 26,
+      "type": "mcq_single",
+      "question": "Which of the following is a strong nucleophile?",
+      "options": [
+        "H2O",
+        "CH3OH",
+        "OH⁻",
+        "NH4⁺",
+        "HCl"
+      ],
+      "answer": 2,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "OH⁻ is a strong nucleophile and commonly participates in SN2 reactions."
+    },
+    {
+      "id": 27,
+      "type": "mcq_single",
+      "question": "Which solvent is polar aprotic?",
       "options": [
         "Water",
         "Methanol",
@@ -310,180 +438,372 @@
       "explanation": "Acetone is a polar aprotic solvent and favors SN2 reactions."
     },
     {
-      "id": 20,
-      "type": "mcq_single",
-      "question": "Which statement about SN2 reactions is correct?",
-      "options": [
-        "They proceed through a carbocation.",
-        "They involve backside attack.",
-        "They are favored by tertiary haloalkanes.",
-        "They produce racemisation.",
-        "Their rate depends only on the substrate."
-      ],
-      "answer": 1,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "SN2 reactions occur by backside attack, leading to inversion of configuration."
-    },
-    {
-      "id": 21,
-      "type": "mcq_single",
-      "question": "Which type of attack occurs in an SN2 reaction?",
-      "options": [
-        "Front-side attack",
-        "Random attack",
-        "Backside attack",
-        "Side attack",
-        "Radical attack"
-      ],
-      "answer": 2,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "The nucleophile attacks from the side opposite to the leaving group."
-    },
-    {
-      "id": 22,
-      "type": "mcq_single",
-      "question": "The product of an SN2 reaction involving a chiral carbon generally shows:",
-      "options": [
-        "Racemisation",
-        "Retention of configuration",
-        "Inversion of configuration",
-        "No change in configuration",
-        "Formation of a carbocation"
-      ],
-      "answer": 2,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "Backside attack causes Walden inversion."
-    },
-    {
-      "id": 23,
-      "type": "mcq_single",
-      "question": "Which statement about an SN1 reaction is correct?",
-      "options": [
-        "It proceeds in one step.",
-        "It involves a carbocation intermediate.",
-        "It always causes inversion of configuration.",
-        "Its rate depends on the nucleophile.",
-        "It is favored by methyl halides."
-      ],
-      "answer": 1,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "SN1 reactions proceed via formation of a carbocation intermediate."
-    },
-    {
-      "id": 24,
-      "type": "mcq_single",
-      "question": "A carbon atom is chiral when it is attached to:",
-      "options": [
-        "Three different groups",
-        "Four different groups",
-        "Two different groups",
-        "Four hydrogen atoms",
-        "Two identical and two different groups"
-      ],
-      "answer": 1,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "A chiral carbon must be bonded to four different groups."
-    },
-    {
-      "id": 25,
-      "type": "mcq_single",
-      "question": "Which of the following molecules is achiral?",
-      "options": [
-        "CH3CH(OH)CH2CH3",
-        "CH3CH(Cl)Br",
-        "(CH3)2CHOH",
-        "CH3CH(NH2)Cl",
-        "CH3CH(OH)CH2Cl"
-      ],
-      "answer": 2,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "The central carbon is attached to two identical CH3 groups, so it is achiral."
-    },
-    {
-      "id": 26,
-      "type": "mcq_single",
-      "question": "Two molecules that are non-superimposable mirror images of each other are called:",
-      "options": [
-        "Homologues",
-        "Structural isomers",
-        "Enantiomers",
-        "Geometrical isomers",
-        "Tautomers"
-      ],
-      "answer": 2,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "Enantiomers are mirror-image forms of a chiral molecule."
-    },
-    {
-      "id": 27,
-      "type": "mcq_single",
-      "question": "Racemisation means the formation of:",
-      "options": [
-        "Only one enantiomer",
-        "A carbocation",
-        "Equal amounts of two enantiomers",
-        "Only the inverted product",
-        "Only the retained product"
-      ],
-      "answer": 2,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "Racemisation produces a 50:50 mixture of both enantiomers."
-    },
-    {
       "id": 28,
       "type": "mcq_single",
-      "question": "Why do SN1 reactions often lead to racemisation?",
+      "question": "Polar protic solvents generally favor:",
       "options": [
-        "Because the leaving group attacks again.",
-        "Because a planar carbocation is formed and the nucleophile can attack from either side.",
-        "Because backside attack always occurs.",
-        "Because two leaving groups are present.",
-        "Because the reaction is reversible."
+        "SN2",
+        "SN1",
+        "Free-radical substitution",
+        "Wurtz reaction",
+        "Grignard reagent formation"
       ],
       "answer": 1,
-      "difficulty": 3,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "The planar carbocation allows attack from both faces, producing both configurations."
+      "explanation": "Polar protic solvents stabilize carbocations, making SN1 more favorable."
     },
     {
       "id": 29,
       "type": "mcq_single",
-      "question": "Which of the following generally undergoes neither SN1 nor SN2 reactions?",
+      "question": "Alcoholic KOH mainly promotes:",
       "options": [
-        "CH3CH2Br",
-        "CH3Br",
-        "C6H5Cl",
-        "C6H5CH2Cl",
-        "CH2=CHCH2Cl"
+        "Nucleophilic substitution",
+        "Electrophilic substitution",
+        "Elimination",
+        "Reduction",
+        "Addition"
       ],
       "answer": 2,
-      "difficulty": 2,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "Chlorobenzene is an aryl halide. The C-Cl bond has partial double-bond character and does not undergo normal SN1 or SN2 reactions."
+      "explanation": "Alcoholic KOH acts mainly as a base and favors β-elimination."
     },
     {
       "id": 30,
       "type": "mcq_single",
-      "question": "Which statement correctly compares SN1 and SN2 reactions?",
+      "question": "According to Zaitsev's rule, the major product of an elimination reaction is:",
       "options": [
-        "Both proceed through carbocation intermediates.",
-        "SN1 gives racemisation, whereas SN2 gives inversion of configuration.",
-        "SN2 is favored by tertiary haloalkanes.",
-        "SN1 always proceeds faster than SN2.",
-        "Both have identical rate laws."
+        "The alkene with the least substituted double bond",
+        "The alkene with the most substituted double bond",
+        "Always the terminal alkene",
+        "Always the cyclic alkene",
+        "The alkane with the longest chain"
       ],
       "answer": 1,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "SN1 proceeds through a planar carbocation, leading to racemisation, while SN2 proceeds by backside attack, causing inversion of configuration."
+      "explanation": "Zaitsev's rule states that the more substituted (and therefore more stable) alkene is formed as the major product."
+    },
+    {
+      "id": 31,
+      "type": "mcq_single",
+      "question": "Why is alcoholic KOH preferred over aqueous KOH for elimination reactions?",
+      "options": [
+        "It acts mainly as a base and removes a β-hydrogen.",
+        "It forms hydrogen bonds with alkyl halides.",
+        "It is a stronger nucleophile than OH⁻.",
+        "It converts alkyl halides into alcohols.",
+        "It increases the boiling point of the reaction mixture."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "In alcoholic medium, OH⁻ behaves mainly as a base and abstracts a β-hydrogen, favoring elimination."
+    },
+    {
+      "id": 32,
+      "type": "mcq_single",
+      "question": "Grignard reagents have the general formula:",
+      "options": [
+        "RX",
+        "RNa",
+        "RMgX",
+        "RLi",
+        "R2Mg"
+      ],
+      "answer": 2,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Grignard reagents are organomagnesium halides with the general formula RMgX."
+    },
+    {
+      "id": 33,
+      "type": "mcq_single",
+      "question": "Which reagent is used to prepare a Grignard reagent from an alkyl halide?",
+      "options": [
+        "Sodium in dry ether",
+        "Magnesium in dry ether",
+        "NaOH",
+        "Alcoholic KOH",
+        "Zn dust"
+      ],
+      "answer": 1,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Alkyl halides react with magnesium in dry ether to form Grignard reagents."
+    },
+    {
+      "id": 34,
+      "type": "mcq_single",
+      "question": "Dry ether is used during the preparation of Grignard reagents because:",
+      "options": [
+        "It reacts with magnesium.",
+        "It supplies hydrogen atoms.",
+        "It destroys the alkyl halide.",
+        "Water would destroy the Grignard reagent.",
+        "It converts Mg into MgO."
+      ],
+      "answer": 3,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Even traces of water react with RMgX, converting it into a hydrocarbon."
+    },
+    {
+      "id": 35,
+      "type": "mcq_single",
+      "question": "Reaction of CH3MgBr with water gives:",
+      "options": [
+        "Methanol",
+        "Methane",
+        "Ethane",
+        "Methyl bromide",
+        "Formaldehyde"
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Grignard reagents react with water to produce the corresponding hydrocarbon."
+    },
+    {
+      "id": 36,
+      "type": "mcq_single",
+      "question": "Wurtz reaction is carried out using:",
+      "options": [
+        "Magnesium in dry ether",
+        "Sodium in dry ether",
+        "NaOH solution",
+        "Alcoholic KOH",
+        "Zn in alcohol"
+      ],
+      "answer": 1,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Wurtz reaction uses sodium metal in dry ether to couple two alkyl halides."
+    },
+    {
+      "id": 37,
+      "type": "mcq_single",
+      "question": "Which of the following is formed when 2CH3Br reacts with 2Na in dry ether?",
+      "options": [
+        "CH4",
+        "CH3OH",
+        "C2H6",
+        "C2H4",
+        "CH3CHO"
+      ],
+      "answer": 2,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Two methyl groups combine to form ethane."
+    },
+    {
+      "id": 38,
+      "type": "mcq_single",
+      "question": "Haloarenes are less reactive than haloalkanes mainly because:",
+      "options": [
+        "The C–X bond has partial double bond character.",
+        "They are ionic compounds.",
+        "They readily form carbocations.",
+        "Their carbon atom is sp3 hybridized.",
+        "They contain hydrogen bonding."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Resonance gives the C–X bond partial double bond character, making it stronger."
+    },
+    {
+      "id": 39,
+      "type": "mcq_single",
+      "question": "Chlorobenzene is converted into phenol using:",
+      "options": [
+        "Dilute NaOH at room temperature",
+        "Alcoholic KOH",
+        "NaOH at 623 K and 300 atm",
+        "Mg in dry ether",
+        "Concentrated HCl"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Chlorobenzene requires harsh conditions because the C–Cl bond is very strong."
+    },
+    {
+      "id": 40,
+      "type": "mcq_single",
+      "question": "The presence of a nitro (-NO2) group at the ortho or para position of chlorobenzene:",
+      "options": [
+        "Decreases nucleophilic substitution.",
+        "Has no effect.",
+        "Increases nucleophilic substitution.",
+        "Prevents resonance.",
+        "Converts chlorobenzene into an alkane."
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The electron-withdrawing NO2 group stabilizes the intermediate, making nucleophilic substitution easier."
+    },
+    {
+      "id": 41,
+      "type": "mcq_single",
+      "question": "Which of the following statements about haloarenes is correct?",
+      "options": [
+        "They readily undergo SN2 reactions.",
+        "They are more reactive than haloalkanes.",
+        "The carbon attached to halogen is sp² hybridized.",
+        "Their C–X bond is purely ionic.",
+        "They easily form phenyl carbocations."
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "In haloarenes, the carbon bonded to halogen is sp² hybridized, making the C–X bond shorter and stronger."
+    },
+    {
+      "id": 42,
+      "type": "mcq_single",
+      "question": "Why is SN2 reaction difficult in haloarenes?",
+      "options": [
+        "Backside attack is blocked by the benzene ring.",
+        "The halogen is positively charged.",
+        "The ring contains hydrogen bonds.",
+        "Haloarenes are ionic compounds.",
+        "The leaving group cannot depart."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The benzene ring hinders backside attack and the C–X bond has partial double bond character."
+    },
+    {
+      "id": 43,
+      "type": "mcq_single",
+      "question": "Why is SN1 reaction difficult in haloarenes?",
+      "options": [
+        "Phenyl carbocation is highly unstable.",
+        "Water is absent.",
+        "Halogens are not good leaving groups.",
+        "The solvent is non-polar.",
+        "The benzene ring is saturated."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Formation of a phenyl carbocation is extremely unstable, so SN1 does not occur readily."
+    },
+    {
+      "id": 44,
+      "type": "mcq_single",
+      "question": "Which of the following is an electron-withdrawing group that activates haloarenes towards nucleophilic substitution?",
+      "options": [
+        "CH3",
+        "OH",
+        "NH2",
+        "NO2",
+        "OCH3"
+      ],
+      "answer": 3,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "The nitro (-NO2) group strongly withdraws electrons and stabilizes the intermediate."
+    },
+    {
+      "id": 45,
+      "type": "mcq_single",
+      "question": "The nitro group is most effective in increasing nucleophilic substitution when present at the:",
+      "options": [
+        "Meta position",
+        "Ortho or para position",
+        "Any position equally",
+        "Only para position",
+        "Only meta and para positions"
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Ortho and para nitro groups stabilize the intermediate by resonance much more effectively than the meta position."
+    },
+    {
+      "id": 46,
+      "type": "mcq_single",
+      "question": "Which reagent behaves mainly as a base rather than a nucleophile?",
+      "options": [
+        "Alcoholic KOH",
+        "Aqueous KOH",
+        "Water",
+        "KCN",
+        "AgNO2"
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Alcoholic KOH promotes β-elimination by abstracting a β-hydrogen."
+    },
+    {
+      "id": 47,
+      "type": "mcq_single",
+      "question": "Which statement about Grignard reagents is correct?",
+      "options": [
+        "They are prepared in water.",
+        "They are destroyed by moisture.",
+        "They are ionic compounds soluble in water.",
+        "They are weak reducing agents only.",
+        "They are prepared using sodium metal."
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Grignard reagents react immediately with water, so absolutely dry conditions are required."
+    },
+    {
+      "id": 48,
+      "type": "mcq_single",
+      "question": "Which reaction is used to prepare alkyl fluorides from alkyl chlorides or bromides?",
+      "options": [
+        "Sandmeyer reaction",
+        "Wurtz reaction",
+        "Swarts reaction",
+        "Finkelstein reaction",
+        "SN1 reaction"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The Swarts reaction converts alkyl chlorides or bromides into alkyl fluorides using metallic fluorides."
+    },
+    {
+      "id": 49,
+      "type": "mcq_single",
+      "question": "Which reaction converts alkyl chlorides or bromides into alkyl iodides using NaI in dry acetone?",
+      "options": [
+        "Sandmeyer reaction",
+        "Swarts reaction",
+        "Wurtz reaction",
+        "Finkelstein reaction",
+        "Grignard reaction"
+      ],
+      "answer": 3,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Finkelstein reaction uses NaI in dry acetone to prepare alkyl iodides."
+    },
+    {
+      "id": 50,
+      "type": "mcq_single",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": [
+        "Aqueous KOH — Elimination",
+        "Alcoholic KOH — Nucleophilic substitution",
+        "Dry ether — Grignard reagent preparation",
+        "Water — Grignard reagent preparation",
+        "Acetone — Polar protic solvent"
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Grignard reagents are prepared using magnesium in dry ether. Water destroys them, aqueous KOH favors substitution, alcoholic KOH favors elimination, and acetone is polar aprotic."
     }
   ]
 }

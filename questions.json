@@ -1,809 +1,1129 @@
 {
-  "examTitle": "Chemistry Test",
+  "examTitle": "Haloalkanes and Haloarenes Comprehensive Test",
   "subject": "Chemistry",
   "class": 12,
   "chapter": "Haloalkanes and Haloarenes",
-  "topic": "Part 1",
+  "topic": "Complete Chapter",
   "questions": [
     {
       "id": 1,
       "type": "mcq_single",
-      "question": "The correct IUPAC name of CH3CHBrCH2CH3 is:",
+      "question": "Which of the following is a benzylic halide?",
       "options": [
-        "1-Bromobutane",
-        "2-Bromobutane",
-        "Butyl bromide",
-        "3-Bromobutane",
-        "Bromobutane"
+        "C6H5Cl",
+        "CH2=CHCl",
+        "C6H5CH2Cl",
+        "CH2=CHCH2Cl",
+        "CH3CH2Cl"
       ],
-      "answer": 1,
+      "answer": 2,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "Bromine is attached to carbon-2 of butane."
+      "explanation": "In C6H5CH2Cl, chlorine is attached to an sp3 carbon directly adjacent to a benzene ring, so it is a benzylic halide."
     },
     {
       "id": 2,
       "type": "mcq_single",
-      "question": "Which of the following is a vinylic halide?",
+      "question": "The correct IUPAC name of CH3CH(Cl)CH2CH3 is:",
       "options": [
-        "CH2=CHCl",
-        "CH2=CHCH2Cl",
-        "C6H5CH2Cl",
-        "CH3CH2Cl",
-        "C6H5Cl"
+        "1-Chlorobutane",
+        "3-Chlorobutane",
+        "2-Chlorobutane",
+        "Butyl chloride",
+        "2-Chloropropane"
       ],
-      "answer": 0,
+      "answer": 2,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "In a vinylic halide, the halogen is directly attached to a double-bonded carbon."
+      "explanation": "The longest chain contains four carbon atoms and chlorine receives the lowest possible locant, 2."
     },
     {
       "id": 3,
       "type": "mcq_single",
-      "question": "Which of the following is an allylic halide?",
+      "question": "Which statement correctly explains the polar nature of the C–Cl bond in chloroethane?",
       "options": [
-        "C6H5CH2Cl",
-        "CH2=CHCH2Br",
-        "CH2=CHCl",
-        "CH3CH2Br",
-        "C6H5Br"
+        "Carbon is more electronegative than chlorine.",
+        "Chlorine completely accepts an electron from carbon.",
+        "Chlorine is more electronegative and pulls the shared electron pair towards itself.",
+        "The C–Cl bond contains two lone pairs shared equally.",
+        "Chloroethane contains C+ and Cl− ions."
       ],
-      "answer": 1,
+      "answer": 2,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "The halogen is attached to the carbon adjacent to a C=C bond."
+      "explanation": "The difference in electronegativity creates Cδ+–Clδ−, making the bond polar covalent rather than ionic."
     },
     {
       "id": 4,
       "type": "mcq_single",
-      "question": "The C–Cl bond in chloroethane is:",
+      "question": "An alcohol is to be converted into an alkyl chloride. Which reagent is generally preferred when a pure alkyl chloride is desired because the inorganic by-products escape as gases?",
       "options": [
-        "Non-polar covalent",
-        "Ionic",
-        "Coordinate",
-        "Polar covalent",
-        "Hydrogen bond"
+        "PCl5",
+        "HCl alone",
+        "SOCl2",
+        "NaCl",
+        "Cl2 in sunlight"
       ],
-      "answer": 3,
-      "difficulty": 1,
+      "answer": 2,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "Chlorine is more electronegative than carbon, making the C–Cl bond polar covalent."
+      "explanation": "SOCl2 converts alcohols into alkyl chlorides while SO2 and HCl escape as gases, simplifying purification."
     },
     {
       "id": 5,
       "type": "mcq_single",
-      "question": "Which reagent is preferred for converting alcohols into alkyl chlorides because its by-products are gases?",
+      "question": "A student wants to convert C2H5Br into C2H5I. Which combination is most appropriate?",
       "options": [
-        "PCl5",
-        "SOCl2",
-        "NaCl",
-        "HCl",
-        "PCl3"
+        "AgF in dry ether",
+        "NaI in dry acetone",
+        "Mg in dry ether",
+        "NaOH in water",
+        "Na in dry ether"
       ],
       "answer": 1,
-      "difficulty": 2,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "SOCl2 forms SO2 and HCl gases, making purification easier."
+      "explanation": "NaI in dry acetone is used in the Finkelstein reaction to convert alkyl bromides or chlorides into alkyl iodides."
     },
     {
       "id": 6,
       "type": "mcq_single",
-      "question": "The Finkelstein reaction is mainly used to prepare:",
+      "question": "Consider CH3Br and (CH3)3CBr reacting separately with a strong nucleophile in a polar aprotic solvent. Which statement is most appropriate?",
       "options": [
-        "Alkyl fluorides",
-        "Alkyl bromides",
-        "Alkyl iodides",
-        "Alkyl chlorides",
-        "Alcohols"
+        "(CH3)3CBr undergoes SN2 faster because it forms a stable carbocation.",
+        "CH3Br undergoes SN2 faster because backside attack is least hindered.",
+        "Both react at the same rate because the C–Br bond is identical.",
+        "(CH3)3CBr undergoes SN2 faster because tertiary carbon is more electron-rich.",
+        "Neither can undergo nucleophilic substitution."
       ],
-      "answer": 2,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "NaI in dry acetone converts alkyl chlorides or bromides into alkyl iodides."
+      "explanation": "A strong nucleophile and polar aprotic solvent favour SN2. Methyl bromide has minimal steric hindrance, whereas backside attack at a tertiary carbon is strongly hindered."
     },
     {
       "id": 7,
       "type": "mcq_single",
-      "question": "Which reagent is commonly used in the Swarts reaction?",
+      "question": "A chiral alkyl halide undergoes substitution through a planar carbocation intermediate. Which observation is most consistent with this mechanism?",
       "options": [
-        "AgF",
-        "NaI",
-        "SOCl2",
-        "PCl5",
-        "NaOH"
+        "Only inversion of configuration occurs.",
+        "Only retention of configuration occurs.",
+        "The reaction must be SN2.",
+        "Attack can occur from both sides, leading to racemisation.",
+        "The reaction cannot involve a nucleophile."
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 3,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Metal fluorides such as AgF are used to prepare alkyl fluorides."
+      "explanation": "A planar carbocation is characteristic of SN1. The nucleophile can attack from either side, producing racemisation."
     },
     {
       "id": 8,
       "type": "mcq_single",
-      "question": "Haloalkanes generally have higher boiling points than corresponding alkanes because they possess:",
+      "question": "CH3CH2Br is treated separately with aqueous KOH and hot alcoholic KOH. Which pair of major products is expected respectively?",
       "options": [
-        "Hydrogen bonding",
-        "Ionic bonding",
-        "Stronger intermolecular forces",
-        "Double bonds",
-        "Metallic bonding"
+        "CH2=CH2 and CH3CH2OH",
+        "CH3CH2OH and CH2=CH2",
+        "CH3CH3 and CH2=CH2",
+        "CH3CH2OH in both cases",
+        "CH2=CH2 in both cases"
       ],
-      "answer": 2,
+      "answer": 1,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Greater molecular mass and polar C–X bonds increase intermolecular attractions."
+      "explanation": "Aqueous KOH mainly favours nucleophilic substitution to form ethanol, while hot alcoholic KOH favours β-elimination to form ethene."
     },
     {
       "id": 9,
       "type": "mcq_single",
-      "question": "Which of the following has the highest boiling point?",
+      "question": "A compound CH3CHBrCH2CH3 is heated with alcoholic KOH. Two alkenes can form. Why is but-2-ene expected as the major product?",
       "options": [
-        "n-Butyl chloride",
-        "Isobutyl chloride",
-        "tert-Butyl chloride",
-        "Methyl chloride",
-        "sec-Butyl chloride"
+        "The halogen must always leave from carbon-2.",
+        "But-2-ene has fewer carbon atoms around the double bond.",
+        "Alcoholic KOH follows Markovnikov's rule.",
+        "But-2-ene is the more substituted and generally more stable alkene.",
+        "But-1-ene cannot be formed because it has a terminal double bond."
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 3,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Straight-chain haloalkanes have greater surface area and stronger van der Waals forces."
+      "explanation": "According to Zaitsev's rule, the more substituted alkene is generally the major product. But-2-ene is more substituted than but-1-ene."
     },
     {
       "id": 10,
       "type": "mcq_single",
-      "question": "Haloalkanes are only sparingly soluble in water mainly because:",
+      "question": "An alkyl bromide gives a nitrile with KCN but an isocyanide with AgCN. Which explanation best accounts for the different products?",
       "options": [
-        "They are ionic.",
-        "They cannot replace the strong hydrogen bonding between water molecules.",
-        "They react immediately with water.",
-        "They are completely non-polar.",
-        "Their boiling points are high."
+        "KCN contains carbon but AgCN contains no carbon.",
+        "AgCN converts the alkyl bromide into a carbocation before substitution.",
+        "CN− can bond only through nitrogen in ionic compounds.",
+        "KCN is mainly ionic and provides carbon-end attack, whereas covalent AgCN favours nitrogen-end attack.",
+        "Silver changes the alkyl group into an aryl group."
       ],
-      "answer": 1,
-      "difficulty": 2,
+      "answer": 3,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "The weak interactions between haloalkanes and water cannot compensate for breaking water-water hydrogen bonds."
+      "explanation": "CN− is an ambident nucleophile. Ionic KCN allows attack mainly through carbon to form R–CN, while covalent AgCN favours attack through nitrogen to form R–NC."
     },
     {
       "id": 11,
       "type": "mcq_single",
-      "question": "When bromoethane reacts with aqueous NaOH, the major product is:",
+      "question": "CH3CH2Br reacts separately with KNO2 and AgNO2. Which pair of products is formed respectively?",
       "options": [
-        "Ethene",
-        "Ethylamine",
-        "Ethanol",
-        "Ethyl cyanide",
-        "Ethyl iodide"
+        "CH3CH2NO2 and CH3CH2ONO",
+        "CH3CH2ONO and CH3CH2NO2",
+        "CH3CH2CN and CH3CH2NC",
+        "CH3CH2OH and CH3CH2NO2",
+        "CH3CH2ONO in both reactions"
       ],
-      "answer": 2,
-      "difficulty": 1,
+      "answer": 1,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "OH⁻ replaces Br to form ethanol by nucleophilic substitution."
+      "explanation": "KNO2 is ionic and favours oxygen-end attack to form an alkyl nitrite, R–ONO. AgNO2 favours nitrogen-end attack to form a nitroalkane, R–NO2."
     },
     {
       "id": 12,
       "type": "mcq_single",
-      "question": "Bromoethane reacts with KCN to form:",
+      "question": "Which combination of substrate, nucleophile and solvent is expected to favour SN2 most strongly?",
       "options": [
-        "CH3CH2NC",
-        "CH3CH2CN",
-        "CH3CH2NO2",
-        "CH3CH2ONO",
-        "CH3CH2OH"
+        "tert-Butyl bromide, H2O, water",
+        "2-Bromopropane, H2O, ethanol",
+        "Methyl bromide, CN−, DMSO",
+        "tert-Butyl chloride, OH−, water",
+        "2-Bromobutane, CH3OH, methanol"
       ],
-      "answer": 1,
-      "difficulty": 2,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "KCN is ionic and attacks through carbon to form a nitrile (RCN)."
+      "explanation": "SN2 is favoured by an unhindered methyl substrate, a strong nucleophile and a polar aprotic solvent such as DMSO."
     },
     {
       "id": 13,
       "type": "mcq_single",
-      "question": "Reaction of bromoethane with AgCN gives:",
+      "question": "A tertiary alkyl halide is placed in a polar protic solvent with a weak nucleophile. Why can substitution still occur readily?",
       "options": [
-        "CH3CH2CN",
-        "CH3CH2OH",
-        "CH3CH2NC",
-        "CH3CH2NO2",
-        "CH3CH2Br"
+        "The weak nucleophile directly attacks the crowded carbon by SN2.",
+        "The solvent converts the tertiary carbon into a primary carbon.",
+        "A stable tertiary carbocation can form before nucleophilic attack.",
+        "The halogen becomes a strong nucleophile and attacks the carbon.",
+        "Polar protic solvents prevent ion formation."
       ],
       "answer": 2,
-      "difficulty": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "AgCN is covalent and nitrogen attacks the alkyl halide to form an isocyanide."
+      "explanation": "These conditions favour SN1. The rate-determining step is formation of a relatively stable tertiary carbocation, so a strong nucleophile is not essential."
     },
     {
       "id": 14,
       "type": "mcq_single",
-      "question": "CH3Br reacts with KNO2 to produce:",
+      "question": "Two reactions use the same alkyl halide. Reaction I doubles the nucleophile concentration, while Reaction II proceeds through carbocation formation. Which statement is correct?",
       "options": [
-        "CH3NO2",
-        "CH3ONO",
-        "CH3NC",
-        "CH3OH",
-        "CH3CN"
+        "The rate of both reactions must double.",
+        "Only the SN1 reaction rate doubles.",
+        "The rate of the carbocation-forming reaction is directly proportional to nucleophile concentration.",
+        "Doubling nucleophile concentration can increase the SN2 rate but does not directly affect the SN1 rate.",
+        "Nucleophile concentration never affects substitution reactions."
       ],
-      "answer": 1,
-      "difficulty": 2,
+      "answer": 3,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "KNO2 attacks through oxygen to form an alkyl nitrite (RONO)."
+      "explanation": "SN2 rate depends on both substrate and nucleophile concentrations. SN1 rate depends only on substrate concentration because carbocation formation is the slow step."
     },
     {
       "id": 15,
       "type": "mcq_single",
-      "question": "Which product is obtained when CH3Br reacts with AgNO2?",
+      "question": "Which statement correctly compares the transition state of SN2 with the intermediate of SN1?",
       "options": [
-        "CH3ONO",
-        "CH3OH",
-        "CH3NO2",
-        "CH3CN",
-        "CH3NC"
+        "Both are stable species that can be isolated.",
+        "SN2 has a carbocation intermediate, while SN1 has only a transition state.",
+        "SN2 has a high-energy transition state but no intermediate, whereas SN1 forms a carbocation intermediate.",
+        "Both mechanisms contain a carbanion intermediate.",
+        "SN1 and SN2 are both one-step reactions."
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "AgNO2 attacks through nitrogen to form a nitroalkane."
+      "explanation": "SN2 is a concerted one-step mechanism with a transition state. SN1 occurs in steps and forms a carbocation intermediate."
     },
     {
       "id": 16,
       "type": "mcq_single",
-      "question": "Which substrate undergoes SN2 reaction most readily?",
+      "question": "A student claims that every molecule containing a carbon attached to three different groups is chiral. Why is this statement incorrect?",
       "options": [
-        "(CH3)3CBr",
-        "CH3CHBrCH3",
-        "CH3Br",
-        "CH3CH2CH2Br",
-        "C6H5CH2Br"
+        "A chiral carbon must be attached to four different groups.",
+        "Chiral carbons must contain a double bond.",
+        "Only carbon attached to halogen can be chiral.",
+        "Three different groups always produce racemisation.",
+        "Chirality requires two identical groups."
       ],
-      "answer": 2,
-      "difficulty": 2,
+      "answer": 0,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "Methyl halides have the least steric hindrance and undergo SN2 most readily."
+      "explanation": "For the simple tetrahedral carbon cases studied here, a chiral carbon must be bonded to four different groups."
     },
     {
       "id": 17,
       "type": "mcq_single",
-      "question": "Which of the following substrates most readily undergoes SN1 reaction?",
+      "question": "Which compound contains a chiral carbon atom?",
       "options": [
-        "CH3Cl",
         "CH3CH2Cl",
-        "(CH3)3CCl",
         "CH3CHClCH3",
-        "CH3CH2CH2Cl"
+        "CH3CHBrCH2CH3",
+        "(CH3)3CCl",
+        "CH2Cl2"
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Tertiary alkyl halides form the most stable carbocations and favor SN1."
+      "explanation": "In CH3CHBrCH2CH3, the carbon bearing Br is attached to H, Br, CH3 and C2H5, four different groups."
     },
     {
       "id": 18,
       "type": "mcq_single",
-      "question": "SN2 reactions proceed through:",
+      "question": "A chiral alkyl halide undergoes SN2 substitution. The nucleophile attacks from the side opposite to the leaving group. What is the expected stereochemical result?",
       "options": [
-        "A carbocation intermediate",
-        "A one-step mechanism",
-        "A free radical intermediate",
-        "Two intermediates",
-        "A carbanion intermediate"
+        "Racemisation because a planar carbocation forms",
+        "Retention because the nucleophile follows the leaving group",
+        "No change because configuration is unrelated to mechanism",
+        "Inversion of configuration due to backside attack",
+        "Formation of equal amounts of alkene and alcohol"
       ],
-      "answer": 1,
-      "difficulty": 1,
+      "answer": 3,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "SN2 is a concerted one-step reaction with no intermediate."
+      "explanation": "Backside attack in SN2 reverses the spatial arrangement around the chiral carbon, producing inversion of configuration."
     },
     {
       "id": 19,
       "type": "mcq_single",
-      "question": "The rate of an SN1 reaction depends on:",
+      "question": "Why does a polar protic solvent generally favour SN1 over SN2 when the substrate can form a stable carbocation?",
       "options": [
-        "Only the concentration of the alkyl halide",
-        "Only the concentration of the nucleophile",
-        "Both alkyl halide and nucleophile",
-        "Only the solvent",
-        "Only the leaving group"
+        "It prevents the leaving group from departing.",
+        "It stabilises ions, including the carbocation formed during SN1.",
+        "It converts all nucleophiles into electrophiles.",
+        "It removes every beta-hydrogen from the substrate.",
+        "It makes tertiary substrates less crowded."
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "The slow step is carbocation formation, so the rate depends only on the substrate."
+      "explanation": "Polar protic solvents stabilise the carbocation and leaving-group ions, helping ionisation and therefore favouring SN1."
     },
     {
       "id": 20,
       "type": "mcq_single",
-      "question": "Which statement is correct regarding SN2 reactions?",
+      "question": "OH− is both a nucleophile and a base. Which condition most strongly shifts its role towards beta-elimination in the reactions studied in this chapter?",
       "options": [
-        "They proceed through a carbocation.",
-        "They generally produce racemisation.",
-        "They occur by backside attack.",
-        "They are favored by tertiary alkyl halides.",
-        "Their rate depends only on the substrate."
+        "Aqueous medium at ordinary conditions with an easily attacked carbon",
+        "Hot alcoholic KOH with a substrate containing a beta-hydrogen",
+        "Dry ether with magnesium",
+        "Polar aprotic solvent with methyl bromide",
+        "NaI in dry acetone"
       ],
-      "answer": 2,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "SN2 reactions occur by backside attack and lead to inversion of configuration."
+      "explanation": "Hot alcoholic KOH favours the basic behaviour of OH− and beta-hydrogen abstraction. If a suitable beta-hydrogen is present, elimination becomes favourable."
     },
     {
       "id": 21,
       "type": "mcq_single",
-      "question": "A carbon atom is chiral when it is attached to:",
+      "question": "Which alkyl halide cannot undergo beta-elimination with hot alcoholic KOH?",
       "options": [
-        "Four hydrogen atoms",
-        "Three different groups",
-        "Four different groups",
-        "Two identical and two different groups",
-        "Four identical groups"
+        "CH3CH2Br",
+        "CH3CHBrCH3",
+        "CH3Br",
+        "CH3CH2CH2Cl",
+        "CH3CHClCH2CH3"
       ],
       "answer": 2,
-      "difficulty": 1,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "A chiral carbon must be bonded to four different groups."
+      "explanation": "CH3Br has no beta-carbon and therefore no beta-hydrogen. Hence normal beta-elimination cannot occur."
     },
     {
       "id": 22,
       "type": "mcq_single",
-      "question": "Two molecules that are non-superimposable mirror images of each other are called:",
+      "question": "CH3CHBrCH2CH3 is heated with alcoholic KOH. Which statement best explains the formation of but-2-ene as the major product?",
       "options": [
-        "Geometrical isomers",
-        "Enantiomers",
-        "Homologues",
-        "Structural isomers",
-        "Tautomers"
-      ],
-      "answer": 1,
-      "difficulty": 1,
-      "marks": 1,
-      "explanation": "Enantiomers are mirror images that cannot be superimposed."
-    },
-    {
-      "id": 23,
-      "type": "mcq_single",
-      "question": "SN1 reaction at a chiral carbon generally results in:",
-      "options": [
-        "Only inversion of configuration",
-        "Only retention of configuration",
-        "Racemisation",
-        "No substitution",
-        "Formation of an alkene"
+        "The base removes hydrogen only from terminal carbon atoms.",
+        "The C–Br bond can break only towards carbon-3.",
+        "But-2-ene is the more substituted and more stable alkene.",
+        "But-1-ene cannot form because it contains a double bond.",
+        "Alcoholic KOH follows the anti-Markovnikov rule."
       ],
       "answer": 2,
-      "difficulty": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "A planar carbocation allows attack from both sides, leading to racemisation."
+      "explanation": "According to Zaitsev's rule, the more substituted alkene is generally formed as the major product. But-2-ene is more substituted than but-1-ene."
     },
+    {
+  "id": 23,
+  "type": "mcq_single",
+  "question": "An alkyl halide is heated with alcoholic KOH. A student predicts that elimination must always be the major pathway. Which factor most directly shows why this prediction may fail?",
+  "options": [
+    "The alkyl halide may lack a beta-hydrogen required for alkene formation.",
+    "Alcohol always converts OH− completely into a weak nucleophile.",
+    "Heating prevents carbon-halogen bond cleavage in primary halides.",
+    "Elimination requires the formation of a carbocation in every case.",
+    "Alcoholic KOH can remove hydrogen only from the carbon bearing the halogen."
+  ],
+  "answer": 0,
+  "difficulty": 3,
+  "marks": 1,
+  "explanation": "Beta-elimination requires removal of a beta-hydrogen from a carbon adjacent to the carbon bearing the halogen. If no suitable beta-hydrogen is present, normal beta-elimination cannot occur even under alcoholic KOH and heating."
+},
     {
       "id": 24,
       "type": "mcq_single",
-      "question": "SN2 reaction at a chiral carbon produces:",
+      "question": "Which sequence correctly describes a concerted E2 elimination?",
       "options": [
-        "Racemisation",
-        "Retention of configuration",
-        "Inversion of configuration",
-        "No change in configuration",
-        "A carbocation intermediate"
+        "Leaving group departs, carbocation forms, then beta-hydrogen is removed.",
+        "Nucleophile attacks carbon, then a double bond forms.",
+        "Base removes a beta-hydrogen while C=C forms and the leaving group departs in the same step.",
+        "A carbanion forms first and remains as a stable intermediate.",
+        "The halogen attacks a beta-hydrogen and forms HX."
       ],
       "answer": 2,
-      "difficulty": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Backside attack in SN2 causes Walden inversion."
+      "explanation": "In E2 elimination, beta-hydrogen abstraction, double-bond formation and leaving-group departure occur together in one concerted step."
     },
     {
       "id": 25,
       "type": "mcq_single",
-      "question": "Which of the following molecules is achiral?",
+      "question": "CH3CH2Br reacts with Mg in dry ether to form compound X. X is then treated with water. What is the final organic product?",
       "options": [
-        "CH3CH(OH)CH2Cl",
-        "CH3CH(Cl)Br",
-        "(CH3)2CHOH",
-        "CH3CH(NH2)Cl",
-        "CH3CH(OH)CH2CH3"
+        "CH3CH2OH",
+        "CH2=CH2",
+        "CH3CH3",
+        "CH3CH2CH3",
+        "CH3Br"
       ],
       "answer": 2,
-      "difficulty": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "The central carbon has two identical CH3 groups, so it is achiral."
+      "explanation": "CH3CH2Br first forms CH3CH2MgBr. Grignard reagents react with water to form the corresponding hydrocarbon, so ethane is produced."
     },
     {
       "id": 26,
       "type": "mcq_single",
-      "question": "Which of the following is a strong nucleophile?",
+      "question": "Why must the ether used in Grignard reagent preparation be anhydrous?",
       "options": [
-        "H2O",
-        "CH3OH",
-        "OH⁻",
-        "NH4⁺",
-        "HCl"
+        "Water converts magnesium into sodium.",
+        "Water reacts with RMgX and converts the R group into the corresponding hydrocarbon.",
+        "Water increases the rate of Wurtz reaction.",
+        "Water converts alkyl halides into haloarenes.",
+        "Water prevents ether from dissolving the alkyl halide."
       ],
-      "answer": 2,
-      "difficulty": 1,
+      "answer": 1,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "OH⁻ is a strong nucleophile and commonly participates in SN2 reactions."
+      "explanation": "Grignard reagents are destroyed by proton sources such as water. RMgX reacts with H2O to give RH."
     },
     {
       "id": 27,
       "type": "mcq_single",
-      "question": "Which solvent is polar aprotic?",
+      "question": "Dry ether is especially suitable for Grignard reagent formation because:",
       "options": [
-        "Water",
-        "Methanol",
-        "Acetic acid",
-        "Acetone",
-        "Ethanol"
+        "It provides OH− ions for the reaction.",
+        "It acts as a strong acid.",
+        "It does not contain water and its oxygen lone pairs help stabilise magnesium by coordination.",
+        "It oxidises the alkyl halide.",
+        "It converts Mg into Mg2+ in aqueous solution."
       ],
-      "answer": 3,
-      "difficulty": 2,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Acetone is a polar aprotic solvent and favors SN2 reactions."
+      "explanation": "Dry ether avoids destruction of RMgX by moisture, while ether oxygen can coordinate with magnesium and stabilise the Grignard reagent."
     },
     {
       "id": 28,
       "type": "mcq_single",
-      "question": "Polar protic solvents generally favor:",
+      "question": "A student performs a Wurtz reaction using CH3Br and C2H5Br together. Why is this method unsuitable for preparing pure propane?",
       "options": [
-        "SN2",
-        "SN1",
-        "Free-radical substitution",
-        "Wurtz reaction",
-        "Grignard reagent formation"
+        "Propane cannot be formed in a Wurtz reaction.",
+        "Sodium reacts only with methyl bromide.",
+        "A mixture containing ethane, propane and butane can form.",
+        "C2H5Br forms only an alkene.",
+        "Dry ether prevents coupling of different alkyl groups."
       ],
-      "answer": 1,
-      "difficulty": 2,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Polar protic solvents stabilize carbocations, making SN1 more favorable."
+      "explanation": "Using two different alkyl halides allows R–R, R–R' and R'–R' coupling, producing a mixture of alkanes."
     },
     {
       "id": 29,
       "type": "mcq_single",
-      "question": "Alcoholic KOH mainly promotes:",
+      "question": "Which alkyl halide should be used in a Wurtz reaction to prepare n-butane as a single major coupling product?",
       "options": [
-        "Nucleophilic substitution",
-        "Electrophilic substitution",
-        "Elimination",
-        "Reduction",
-        "Addition"
+        "CH3Br",
+        "CH3CH2Br",
+        "CH3CHBrCH3",
+        "(CH3)3CBr",
+        "CH2=CHBr"
       ],
-      "answer": 2,
-      "difficulty": 1,
+      "answer": 1,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "Alcoholic KOH acts mainly as a base and favors β-elimination."
+      "explanation": "Two ethyl groups from CH3CH2Br couple in the Wurtz reaction to form CH3CH2CH2CH3, n-butane."
     },
     {
       "id": 30,
       "type": "mcq_single",
-      "question": "According to Zaitsev's rule, the major product of an elimination reaction is:",
+      "question": "Chlorobenzene and chloroethane both contain a C–Cl bond. Why is chlorobenzene much less reactive towards normal nucleophilic substitution?",
       "options": [
-        "The alkene with the least substituted double bond",
-        "The alkene with the most substituted double bond",
-        "Always the terminal alkene",
-        "Always the cyclic alkene",
-        "The alkane with the longest chain"
+        "Chlorobenzene contains an ionic C–Cl bond.",
+        "The chlorine atom in chlorobenzene has no lone pairs.",
+        "The C–Cl bond in chlorobenzene gains partial double-bond character by resonance and is attached to an sp2 carbon.",
+        "Chloroethane cannot undergo SN1 or SN2 reactions.",
+        "The benzene ring converts chlorine into a positively charged ion."
       ],
-      "answer": 1,
-      "difficulty": 2,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Zaitsev's rule states that the more substituted (and therefore more stable) alkene is formed as the major product."
+      "explanation": "Resonance gives the C–Cl bond partial double-bond character, and the sp2 carbon forms a shorter, stronger bond than an sp3 carbon. Both effects reduce nucleophilic substitution reactivity."
     },
     {
       "id": 31,
       "type": "mcq_single",
-      "question": "Why is alcoholic KOH preferred over aqueous KOH for elimination reactions?",
+      "question": "Which statement best explains why chlorobenzene does not readily undergo an SN1 reaction?",
       "options": [
-        "It acts mainly as a base and removes a β-hydrogen.",
-        "It forms hydrogen bonds with alkyl halides.",
-        "It is a stronger nucleophile than OH⁻.",
-        "It converts alkyl halides into alcohols.",
-        "It increases the boiling point of the reaction mixture."
+        "Chlorine cannot act as a leaving group in any compound.",
+        "Formation of a phenyl carbocation would be highly unstable.",
+        "The benzene ring contains no pi electrons.",
+        "Chlorobenzene is completely non-polar.",
+        "SN1 reactions occur only with alkyl iodides."
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "In alcoholic medium, OH⁻ behaves mainly as a base and abstracts a β-hydrogen, favoring elimination."
+      "explanation": "SN1 would require formation of a phenyl carbocation, which is highly unstable. Therefore chlorobenzene does not readily follow the SN1 pathway."
     },
     {
       "id": 32,
       "type": "mcq_single",
-      "question": "Grignard reagents have the general formula:",
+      "question": "Which statement best explains why chlorobenzene does not readily undergo an SN2 reaction?",
       "options": [
-        "RX",
-        "RNa",
-        "RMgX",
-        "RLi",
-        "R2Mg"
+        "The benzene ring hinders normal backside attack at the sp2 carbon bonded to chlorine.",
+        "Chlorine has no electronegativity.",
+        "The carbon bonded to chlorine is sp3 hybridised.",
+        "A stable carbocation forms before nucleophilic attack.",
+        "The C–Cl bond is purely ionic."
       ],
-      "answer": 2,
-      "difficulty": 1,
+      "answer": 0,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Grignard reagents are organomagnesium halides with the general formula RMgX."
+      "explanation": "Normal backside attack at the sp2 carbon of chlorobenzene is difficult because of the benzene ring and its electron cloud. The strong C–Cl bond also makes SN2 difficult."
     },
     {
       "id": 33,
       "type": "mcq_single",
-      "question": "Which reagent is used to prepare a Grignard reagent from an alkyl halide?",
+      "question": "Consider chlorobenzene, m-nitrochlorobenzene and p-nitrochlorobenzene. Which is the correct increasing order of ease of nucleophilic substitution of chlorine?",
       "options": [
-        "Sodium in dry ether",
-        "Magnesium in dry ether",
-        "NaOH",
-        "Alcoholic KOH",
-        "Zn dust"
+        "p-Nitrochlorobenzene < m-Nitrochlorobenzene < chlorobenzene",
+        "m-Nitrochlorobenzene < chlorobenzene < p-nitrochlorobenzene",
+        "Chlorobenzene ~ m-nitrochlorobenzene < p-nitrochlorobenzene",
+        "Chlorobenzene < p-nitrochlorobenzene < m-nitrochlorobenzene",
+        "All three react equally"
       ],
-      "answer": 1,
-      "difficulty": 1,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Alkyl halides react with magnesium in dry ether to form Grignard reagents."
+      "explanation": "The key NCERT concept is that NO₂ at ortho/para strongly increases reactivity through resonance stabilisation, while meta-NO₂ does not provide this resonance stabilisation.So Chlorobenzene ~ m-nitrochlorobenzene "
     },
     {
       "id": 34,
       "type": "mcq_single",
-      "question": "Dry ether is used during the preparation of Grignard reagents because:",
+      "question": "Why does a nitro group at the para position strongly increase nucleophilic substitution in chlorobenzene?",
       "options": [
-        "It reacts with magnesium.",
-        "It supplies hydrogen atoms.",
-        "It destroys the alkyl halide.",
-        "Water would destroy the Grignard reagent.",
-        "It converts Mg into MgO."
+        "It forms a stable phenyl carbocation.",
+        "It donates electrons to chlorine by the +I effect.",
+        "It converts chlorine into Cl+.",
+        "It stabilises the negatively charged intermediate through resonance.",
+        "It prevents the C–Cl bond from becoming polar."
       ],
       "answer": 3,
-      "difficulty": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Even traces of water react with RMgX, converting it into a hydrocarbon."
+      "explanation": "A para-NO2 group withdraws electron density and stabilises the negatively charged intermediate formed during nucleophilic aromatic substitution through resonance."
     },
     {
       "id": 35,
       "type": "mcq_single",
-      "question": "Reaction of CH3MgBr with water gives:",
+      "question": "Why does a meta-NO2 group not significantly increase nucleophilic substitution of chlorobenzene, unlike an ortho- or para-NO2 group?",
       "options": [
-        "Methanol",
-        "Methane",
-        "Ethane",
-        "Methyl bromide",
-        "Formaldehyde"
+        "A meta-NO2 group is electron donating.",
+        "A meta-NO2 group cannot effectively stabilise the negatively charged intermediate by resonance.",
+        "The meta position contains no pi electrons.",
+        "A meta-NO2 group removes chlorine before substitution.",
+        "Nitro groups show a +I effect only at the meta position."
       ],
       "answer": 1,
-      "difficulty": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Grignard reagents react with water to produce the corresponding hydrocarbon."
+      "explanation": "At the meta position, the NO2 group cannot directly stabilise the negative charge of the nucleophilic substitution intermediate through resonance."
     },
     {
       "id": 36,
       "type": "mcq_single",
-      "question": "Wurtz reaction is carried out using:",
+      "question": "Which order correctly represents reactivity towards electrophilic substitution?",
       "options": [
-        "Magnesium in dry ether",
-        "Sodium in dry ether",
-        "NaOH solution",
-        "Alcoholic KOH",
-        "Zn in alcohol"
+        "p-Nitrochlorobenzene > chlorobenzene > benzene",
+        "Chlorobenzene > benzene > p-nitrochlorobenzene",
+        "Benzene > chlorobenzene > p-nitrochlorobenzene",
+        "p-Nitrochlorobenzene > benzene > chlorobenzene",
+        "All three have equal reactivity"
       ],
-      "answer": 1,
-      "difficulty": 1,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Wurtz reaction uses sodium metal in dry ether to couple two alkyl halides."
+      "explanation": "Benzene is more reactive than chlorobenzene because chlorine deactivates the ring by its -I effect. The strongly electron-withdrawing NO2 group further deactivates p-nitrochlorobenzene."
     },
     {
       "id": 37,
       "type": "mcq_single",
-      "question": "Which of the following is formed when 2CH3Br reacts with 2Na in dry ether?",
+      "question": "The same chlorine atom in chlorobenzene deactivates the ring but directs electrophiles to ortho and para positions. Which explanation is correct?",
       "options": [
-        "CH4",
-        "CH3OH",
-        "C2H6",
-        "C2H4",
-        "CH3CHO"
+        "Its +I effect deactivates the ring and -R effect directs substitution.",
+        "Its -I effect lowers overall ring electron density, while lone-pair donation by resonance increases relative electron density at ortho and para positions.",
+        "Chlorine first leaves the ring and then returns to the ortho position.",
+        "The inductive and resonance effects of chlorine are identical.",
+        "Chlorine activates all positions equally through hyperconjugation."
       ],
-      "answer": 2,
-      "difficulty": 1,
+      "answer": 1,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Two methyl groups combine to form ethane."
+      "explanation": "The -I effect of chlorine causes overall deactivation. Its lone-pair resonance donation increases electron density relatively at ortho and para positions, making chlorine ortho-para directing."
     },
     {
       "id": 38,
       "type": "mcq_single",
-      "question": "Haloarenes are less reactive than haloalkanes mainly because:",
+      "question": "Chlorobenzene undergoes nitration. Which pair of products is mainly expected?",
       "options": [
-        "The C–X bond has partial double bond character.",
-        "They are ionic compounds.",
-        "They readily form carbocations.",
-        "Their carbon atom is sp3 hybridized.",
-        "They contain hydrogen bonding."
+        "Only m-nitrochlorobenzene",
+        "o-Nitrochlorobenzene and p-nitrochlorobenzene",
+        "Nitrobenzene and chlorine",
+        "2,4-Dinitrochlorobenzene only",
+        "Phenol and nitrobenzene"
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "Resonance gives the C–X bond partial double bond character, making it stronger."
+      "explanation": "Chlorine is an ortho-para directing group, so nitration mainly produces ortho- and para-nitrochlorobenzene."
     },
     {
       "id": 39,
       "type": "mcq_single",
-      "question": "Chlorobenzene is converted into phenol using:",
+      "question": "Which electrophile attacks the aromatic ring during nitration?",
       "options": [
-        "Dilute NaOH at room temperature",
-        "Alcoholic KOH",
-        "NaOH at 623 K and 300 atm",
-        "Mg in dry ether",
-        "Concentrated HCl"
+        "NO2−",
+        "NO3−",
+        "NO+",
+        "NO2+",
+        "NH4+"
       ],
-      "answer": 2,
-      "difficulty": 2,
+      "answer": 3,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "Chlorobenzene requires harsh conditions because the C–Cl bond is very strong."
+      "explanation": "The nitronium ion, NO2+, is the electrophile responsible for nitration of the aromatic ring."
     },
     {
       "id": 40,
       "type": "mcq_single",
-      "question": "The presence of a nitro (-NO2) group at the ortho or para position of chlorobenzene:",
+      "question": "During chlorination of chlorobenzene, why is anhydrous FeCl3 used with Cl2?",
       "options": [
-        "Decreases nucleophilic substitution.",
-        "Has no effect.",
-        "Increases nucleophilic substitution.",
-        "Prevents resonance.",
-        "Converts chlorobenzene into an alkane."
+        "It supplies Cl− as a strong nucleophile.",
+        "It converts chlorobenzene into benzene.",
+        "It activates and polarises Cl2, producing electrophilic chlorine character.",
+        "It removes all pi electrons from the benzene ring.",
+        "It acts as a reducing agent."
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "The electron-withdrawing NO2 group stabilizes the intermediate, making nucleophilic substitution easier."
+      "explanation": "FeCl3 acts as a Lewis acid and activates Cl2. This produces strongly polarised chlorine with electrophilic character that can attack the aromatic ring."
     },
     {
       "id": 41,
       "type": "mcq_single",
-      "question": "Which of the following statements about haloarenes is correct?",
+      "question": "Chlorobenzene undergoes sulphonation on heating with concentrated H2SO4. Which products are mainly formed?",
       "options": [
-        "They readily undergo SN2 reactions.",
-        "They are more reactive than haloalkanes.",
-        "The carbon attached to halogen is sp² hybridized.",
-        "Their C–X bond is purely ionic.",
-        "They easily form phenyl carbocations."
+        "Only meta-chlorobenzenesulphonic acid",
+        "Benzene and chlorosulphonic acid",
+        "Ortho- and para-chlorobenzenesulphonic acids",
+        "Phenol and sulphur dioxide",
+        "Only para-chlorobenzenesulphonic acid"
       ],
       "answer": 2,
-      "difficulty": 2,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "In haloarenes, the carbon bonded to halogen is sp² hybridized, making the C–X bond shorter and stronger."
+      "explanation": "Chlorine is ortho-para directing, so sulphonation mainly occurs at the ortho and para positions."
     },
     {
       "id": 42,
       "type": "mcq_single",
-      "question": "Why is SN2 reaction difficult in haloarenes?",
+      "question": "Chlorobenzene undergoes halogenation, nitration and sulphonation mainly at ortho and para positions. What common factor controls this orientation?",
       "options": [
-        "Backside attack is blocked by the benzene ring.",
-        "The halogen is positively charged.",
-        "The ring contains hydrogen bonds.",
-        "Haloarenes are ionic compounds.",
-        "The leaving group cannot depart."
+        "All attacking species are nucleophiles.",
+        "Chlorine donates its lone pair into the ring by resonance, increasing relative electron density at ortho and para positions.",
+        "The C–Cl bond breaks before every electrophilic substitution.",
+        "Chlorine shows a strong +I effect.",
+        "The meta positions contain no hydrogen atoms."
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "The benzene ring hinders backside attack and the C–X bond has partial double bond character."
+      "explanation": "Although chlorine deactivates the ring by its -I effect, lone-pair donation through resonance increases relative electron density at the ortho and para positions."
     },
     {
       "id": 43,
       "type": "mcq_single",
-      "question": "Why is SN1 reaction difficult in haloarenes?",
+      "question": "Which pair correctly matches an aromatic substitution reaction with its attacking electrophile or electrophilic species?",
       "options": [
-        "Phenyl carbocation is highly unstable.",
-        "Water is absent.",
-        "Halogens are not good leaving groups.",
-        "The solvent is non-polar.",
-        "The benzene ring is saturated."
+        "Nitration — NO2−",
+        "Halogenation — Cl−",
+        "Sulphonation — SO3 or protonated SO3",
+        "Friedel-Crafts alkylation — OH−",
+        "Nitration — NO3−"
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 2,
+      "difficulty": 3,
       "marks": 1,
-      "explanation": "Formation of a phenyl carbocation is extremely unstable, so SN1 does not occur readily."
+      "explanation": "Sulphonation involves electrophilic SO3 or its protonated form. NO2+ is used in nitration, and activated chlorine has electrophilic character in halogenation."
     },
     {
       "id": 44,
       "type": "mcq_single",
-      "question": "Which of the following is an electron-withdrawing group that activates haloarenes towards nucleophilic substitution?",
+      "question": "In the electrophilic substitution reactions of chlorobenzene, the para product is often major over the ortho product. Which explanation is most appropriate?",
       "options": [
-        "CH3",
-        "OH",
-        "NH2",
-        "NO2",
-        "OCH3"
+        "The para position has no resonance stabilisation.",
+        "Chlorine directs only to the para position.",
+        "The ortho product cannot form.",
+        "Attack at the para position generally suffers less steric hindrance.",
+        "The para carbon carries a permanent negative charge."
       ],
       "answer": 3,
-      "difficulty": 1,
+      "difficulty": 2,
       "marks": 1,
-      "explanation": "The nitro (-NO2) group strongly withdraws electrons and stabilizes the intermediate."
+      "explanation": "Both ortho and para positions are activated relative to meta by resonance, but para attack is generally less sterically hindered."
     },
     {
       "id": 45,
       "type": "mcq_single",
-      "question": "The nitro group is most effective in increasing nucleophilic substitution when present at the:",
+      "question": "Chlorobenzene is treated with CH3Cl in the presence of anhydrous AlCl3. In the simplified reaction pattern studied in this chapter, which major product is expected?",
       "options": [
-        "Meta position",
-        "Ortho or para position",
-        "Any position equally",
-        "Only para position",
-        "Only meta and para positions"
+        "m-Chlorotoluene",
+        "p-Chlorotoluene",
+        "Benzyl chloride",
+        "Ethylbenzene",
+        "Biphenyl"
       ],
       "answer": 1,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Ortho and para nitro groups stabilize the intermediate by resonance much more effectively than the meta position."
+      "explanation": "In the simplified electrophilic substitution pattern, chlorine directs the incoming methyl group to ortho and para positions, with the para product generally favoured due to lower steric hindrance."
     },
     {
       "id": 46,
       "type": "mcq_single",
-      "question": "Which reagent behaves mainly as a base rather than a nucleophile?",
+      "question": "Which reagent combination represents Friedel-Crafts acylation in the reaction patterns studied here?",
       "options": [
-        "Alcoholic KOH",
-        "Aqueous KOH",
-        "Water",
-        "KCN",
-        "AgNO2"
+        "CH3Cl and Na/dry ether",
+        "CH3COCl and anhydrous AlCl3",
+        "Cl2 and FeCl3",
+        "HNO3 and concentrated H2SO4",
+        "Mg and dry ether"
       ],
-      "answer": 0,
-      "difficulty": 2,
+      "answer": 1,
+      "difficulty": 1,
       "marks": 1,
-      "explanation": "Alcoholic KOH promotes β-elimination by abstracting a β-hydrogen."
+      "explanation": "An acyl chloride such as CH3COCl with anhydrous AlCl3 is used for Friedel-Crafts acylation."
     },
     {
       "id": 47,
       "type": "mcq_single",
-      "question": "Which statement about Grignard reagents is correct?",
+      "question": "CH3COCl is used in a Friedel-Crafts reaction. Which group is introduced into the aromatic ring?",
       "options": [
-        "They are prepared in water.",
-        "They are destroyed by moisture.",
-        "They are ionic compounds soluble in water.",
-        "They are weak reducing agents only.",
-        "They are prepared using sodium metal."
-      ],
-      "answer": 1,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "Grignard reagents react immediately with water, so absolutely dry conditions are required."
-    },
-    {
-      "id": 48,
-      "type": "mcq_single",
-      "question": "Which reaction is used to prepare alkyl fluorides from alkyl chlorides or bromides?",
-      "options": [
-        "Sandmeyer reaction",
-        "Wurtz reaction",
-        "Swarts reaction",
-        "Finkelstein reaction",
-        "SN1 reaction"
-      ],
-      "answer": 2,
-      "difficulty": 2,
-      "marks": 1,
-      "explanation": "The Swarts reaction converts alkyl chlorides or bromides into alkyl fluorides using metallic fluorides."
-    },
-    {
-      "id": 49,
-      "type": "mcq_single",
-      "question": "Which reaction converts alkyl chlorides or bromides into alkyl iodides using NaI in dry acetone?",
-      "options": [
-        "Sandmeyer reaction",
-        "Swarts reaction",
-        "Wurtz reaction",
-        "Finkelstein reaction",
-        "Grignard reaction"
+        "-CH3",
+        "-CHO",
+        "-COOH",
+        "-COCH3",
+        "-OH"
       ],
       "answer": 3,
       "difficulty": 1,
       "marks": 1,
-      "explanation": "Finkelstein reaction uses NaI in dry acetone to prepare alkyl iodides."
+      "explanation": "CH3COCl is ethanoyl chloride (acetyl chloride) and introduces the acyl group -COCH3."
     },
     {
-      "id": 50,
+      "id": 48,
       "type": "mcq_single",
-      "question": "Which of the following pairs is correctly matched?",
+      "question": "Which comparison correctly distinguishes Wurtz, Fittig and Wurtz-Fittig reactions?",
       "options": [
-        "Aqueous KOH — Elimination",
-        "Alcoholic KOH — Nucleophilic substitution",
-        "Dry ether — Grignard reagent preparation",
-        "Water — Grignard reagent preparation",
-        "Acetone — Polar protic solvent"
+        "Wurtz: Ar-Ar; Fittig: R-R; Wurtz-Fittig: R-OH",
+        "Wurtz: R-R; Fittig: Ar-Ar; Wurtz-Fittig: Ar-R",
+        "Wurtz: Ar-R; Fittig: R-R; Wurtz-Fittig: Ar-Ar",
+        "All three produce only R-R.",
+        "All three are nucleophilic substitution reactions with OH−."
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Wurtz couples two alkyl groups, Fittig couples two aryl groups, and Wurtz-Fittig couples an aryl group with an alkyl group."
+    },
+    {
+      "id": 49,
+      "type": "mcq_single",
+      "question": "Chlorobenzene and CH3Cl are heated with sodium in dry ether. Which product and reaction name are correctly matched?",
+      "options": [
+        "Biphenyl — Fittig reaction",
+        "Ethane — Wurtz-Fittig reaction",
+        "Toluene — Wurtz-Fittig reaction",
+        "Chlorotoluene — Friedel-Crafts reaction",
+        "Benzene — Wurtz reaction"
       ],
       "answer": 2,
       "difficulty": 2,
       "marks": 1,
-      "explanation": "Grignard reagents are prepared using magnesium in dry ether. Water destroys them, aqueous KOH favors substitution, alcoholic KOH favors elimination, and acetone is polar aprotic."
+      "explanation": "An aryl halide and an alkyl halide couple with sodium in dry ether to form an alkyl arene. Chlorobenzene and CH3Cl form toluene by the Wurtz-Fittig reaction."
+    },
+    {
+      "id": 50,
+      "type": "mcq_single",
+      "question": "Two molecules of chlorobenzene are treated with sodium in dry ether. Which conclusion is correct?",
+      "options": [
+        "Toluene forms by Wurtz reaction.",
+        "Biphenyl forms by Fittig reaction.",
+        "Ethylbenzene forms by Wurtz-Fittig reaction.",
+        "Benzene forms by SN1 reaction.",
+        "Phenol forms by nucleophilic substitution."
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Fittig reaction couples two aryl halide molecules using sodium in dry ether to form a biaryl compound such as biphenyl."
+    },
+    {
+      "id": 51,
+      "type": "mcq_single",
+      "question": "Which compound is commonly known as methylene chloride?",
+      "options": [
+        "CHCl3",
+        "CCl4",
+        "CH2Cl2",
+        "CHI3",
+        "CCl2F2"
+      ],
+      "answer": 2,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Dichloromethane, CH2Cl2, is commonly known as methylene chloride."
+    },
+    {
+      "id": 52,
+      "type": "mcq_single",
+      "question": "Chloroform is stored in closed, dark-coloured bottles mainly because exposure to air and light can produce:",
+      "options": [
+        "Methane",
+        "Phosgene",
+        "Freon-12",
+        "Iodoform",
+        "Carbon tetrachloride"
+      ],
+      "answer": 1,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "Chloroform is slowly oxidised by oxygen in the presence of light to form highly poisonous phosgene, COCl2."
+    },
+    {
+      "id": 53,
+      "type": "mcq_single",
+      "question": "A bottle of CHCl3 is left partly filled and exposed to sunlight for a long time. Which reaction is the main safety concern?",
+      "options": [
+        "CHCl3 is reduced to CH4.",
+        "CHCl3 reacts with nitrogen to form HCN.",
+        "CHCl3 is oxidised by oxygen to poisonous COCl2.",
+        "CHCl3 forms CCl4 by losing hydrogen.",
+        "CHCl3 polymerises into a plastic."
+      ],
+      "answer": 2,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Air provides oxygen and light promotes oxidation of chloroform to phosgene. This explains why chloroform is protected from air and light."
+    },
+    {
+      "id": 54,
+      "type": "mcq_single",
+      "question": "The antiseptic action associated with iodoform is mainly due to:",
+      "options": [
+        "Formation of phosgene",
+        "Release of free iodine",
+        "Presence of chlorine atoms",
+        "Formation of a Grignard reagent",
+        "Its strong acidic nature"
+      ],
+      "answer": 1,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "The antiseptic property associated with iodoform is due to the release of free iodine rather than iodoform itself."
+    },
+    {
+      "id": 55,
+      "type": "mcq_single",
+      "question": "Which statement correctly compares chloroform and iodoform?",
+      "options": [
+        "Both contain four halogen atoms.",
+        "Chloroform is CH2Cl2 and iodoform is CHI3.",
+        "Chloroform can form poisonous phosgene on oxidation, while iodoform is associated with antiseptic action due to free iodine.",
+        "Both are mainly responsible for ozone depletion.",
+        "Both are Grignard reagents."
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "CHCl3 can oxidise to phosgene, whereas CHI3 has been used as an antiseptic because of liberated iodine."
+    },
+    {
+      "id": 56,
+      "type": "mcq_single",
+      "question": "Carbon tetrachloride was formerly used in fire extinguishers and as a cleaning solvent. Why has its use been restricted?",
+      "options": [
+        "It reacts explosively with water.",
+        "It is highly acidic.",
+        "It is toxic and also contributes to ozone layer depletion.",
+        "It immediately forms sodium metal.",
+        "It is a strong nucleophile."
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "CCl4 is toxic, particularly to the liver, and its release into the atmosphere contributes to ozone depletion."
+    },
+    {
+      "id": 57,
+      "type": "mcq_single",
+      "question": "Freon-12 has the formula CCl2F2. Which property originally made compounds like Freons useful as refrigerants?",
+      "options": [
+        "They are highly reactive with metals.",
+        "They are strong acids.",
+        "They are relatively stable, non-corrosive and easily liquefied.",
+        "They rapidly react with ozone near the Earth's surface.",
+        "They form ionic solutions in water."
+      ],
+      "answer": 2,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "The stability, low reactivity, non-corrosive nature and ease of liquefaction of Freons made them suitable refrigerants."
+    },
+    {
+      "id": 58,
+      "type": "mcq_single",
+      "question": "The same chemical stability that made CFCs useful also creates an environmental problem. Which explanation best connects these facts?",
+      "options": [
+        "Their stability allows them to persist and reach the stratosphere, where chlorine radicals can participate in ozone destruction.",
+        "Their stability makes them react instantly with water.",
+        "Stable CFCs absorb all oxygen from the atmosphere.",
+        "Their stability converts them directly into DDT.",
+        "Stable CFCs behave as strong bases in the troposphere."
+      ],
+      "answer": 0,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Because CFCs are stable in the lower atmosphere, they can survive long enough to reach the stratosphere. There, photochemical processes release chlorine radicals involved in ozone destruction."
+    },
+    {
+      "id": 59,
+      "type": "mcq_single",
+      "question": "Why does DDT tend to accumulate in the fatty tissues of organisms?",
+      "options": [
+        "It is highly soluble in water.",
+        "It is fat-soluble and is metabolised very slowly.",
+        "It rapidly decomposes into glucose.",
+        "It forms hydrogen bonds with water.",
+        "It is an ionic compound."
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "DDT is fat-soluble, chemically stable and slowly metabolised, so it accumulates in fatty tissues."
+    },
+    {
+      "id": 60,
+      "type": "mcq_single",
+      "question": "A small concentration of DDT is present in water. Its concentration becomes progressively higher in small organisms, fish and finally fish-eating birds. This phenomenon is called:",
+      "options": [
+        "Racemisation",
+        "Solvation",
+        "Biomagnification",
+        "Nucleophilic substitution",
+        "Beta-elimination"
+      ],
+      "answer": 2,
+      "difficulty": 1,
+      "marks": 1,
+      "explanation": "The increase in concentration of a persistent substance such as DDT at successive trophic levels is called biomagnification."
+    },
+    {
+  "id": 61,
+  "type": "mcq_single",
+  "question": "Chlorobenzene is difficult to hydrolyse under ordinary conditions, but p-nitrochlorobenzene undergoes nucleophilic substitution more readily. Which combination of factors best explains these observations?",
+  "options": [
+    "The C–Cl bond in chlorobenzene is weak, while the nitro group strengthens nucleophilic attack by donating electrons.",
+    "Resonance gives the C–Cl bond in chlorobenzene partial double-bond character, while a para-NO2 group stabilises the negatively charged substitution intermediate.",
+    "Chlorobenzene forms an unstable carbocation, while p-nitrochlorobenzene undergoes an SN1 reaction through a stable carbocation.",
+    "The carbon bonded to chlorine in chlorobenzene is sp3 hybridised, while the nitro group converts it into an sp2 carbon.",
+    "The nitro group weakens the C–Cl bond by converting chlorine into a positively charged leaving group."
+  ],
+  "answer": 1,
+  "difficulty": 3,
+  "marks": 1,
+  "explanation": "In chlorobenzene, resonance gives the C–Cl bond partial double-bond character, making bond cleavage difficult. A para-NO2 group increases nucleophilic substitution by stabilising the negatively charged intermediate through resonance."
+},
+    {
+      "id": 62,
+      "type": "mcq_single",
+      "question": "A student compares chlorobenzene with p-nitrochlorobenzene. Which statement correctly describes their behaviour towards electrophilic and nucleophilic substitution?",
+      "options": [
+        "p-Nitrochlorobenzene is more reactive in both reactions.",
+        "Chlorobenzene is more reactive in both reactions.",
+        "p-Nitrochlorobenzene is more reactive towards electrophilic substitution but less reactive towards nucleophilic substitution.",
+        "Chlorobenzene is more reactive towards electrophilic substitution, while p-nitrochlorobenzene is more reactive towards nucleophilic substitution.",
+        "Both compounds have identical reactivity."
+      ],
+      "answer": 3,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "NO2 strongly withdraws electron density, making electrophilic attack more difficult. However, a para-NO2 group stabilises the negatively charged intermediate in nucleophilic aromatic substitution."
+    },
+    {
+      "id": 63,
+      "type": "mcq_single",
+      "question": "Which set of conditions and products is correctly matched?",
+      "options": [
+        "CH3CH2Br + aqueous KOH → CH2=CH2",
+        "CH3CH2Br + hot alcoholic KOH → CH3CH2OH",
+        "CH3CH2Br + Mg/dry ether, followed by H2O → CH3CH3",
+        "CH3CH2Br + NaI/dry acetone → CH3CH2F",
+        "CH3CH2Br + AgCN → CH3CH2CN"
+      ],
+      "answer": 2,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Ethyl bromide forms C2H5MgBr with magnesium in dry ether. Hydrolysis of the Grignard reagent gives ethane."
+    },
+    {
+      "id": 64,
+      "type": "mcq_single",
+      "question": "An alkyl halide is chiral, forms a relatively stable carbocation and is reacted in a polar protic solvent with a weak nucleophile. Which combination of mechanism and stereochemical result is most likely?",
+      "options": [
+        "SN2 and complete retention",
+        "SN1 and racemisation",
+        "E2 and inversion",
+        "SN2 and racemisation",
+        "SN1 and only inversion"
+      ],
+      "answer": 1,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Stable carbocation formation, polar protic solvent and weak nucleophile favour SN1. The planar carbocation can be attacked from both sides, leading to racemisation."
+    },
+    {
+      "id": 65,
+      "type": "mcq_single",
+      "question": "Which statement correctly connects substrate structure, solvent and SN2 reactivity?",
+      "options": [
+        "Tertiary alkyl halides react fastest by SN2 in polar aprotic solvents.",
+        "Polar protic solvents always make nucleophiles stronger.",
+        "Methyl and primary halides favour SN2 because backside attack is less hindered, and polar aprotic solvents help keep anionic nucleophiles more reactive.",
+        "SN2 requires formation of a stable carbocation.",
+        "SN2 rate is independent of nucleophile concentration."
+      ],
+      "answer": 2,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Low steric hindrance favours backside attack, while polar aprotic solvents do not strongly solvate anionic nucleophiles and therefore favour SN2."
+    },
+    {
+      "id": 66,
+      "type": "mcq_single",
+      "question": "A compound reacts readily by SN1 and also has beta-hydrogens. On heating under strongly basic conditions, elimination becomes important. Which idea best explains this change in major pathway?",
+      "options": [
+        "Heating permanently converts the substrate into a primary halide.",
+        "A strong base can abstract a beta-hydrogen, and heating favours elimination over substitution.",
+        "Beta-hydrogens prevent all substitution reactions.",
+        "The leaving group becomes a nucleophile and attacks hydrogen.",
+        "Heat removes the C–X bond without any other bond changes."
+      ],
+      "answer": 1,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "A substrate may favour SN1 under ionising conditions, but strong basic conditions and heat make beta-hydrogen abstraction and alkene formation competitive or dominant."
+    },
+    {
+      "id": 67,
+      "type": "mcq_single",
+      "question": "Which reaction sequence correctly converts an alkyl bromide first into a Grignard reagent and then into a hydrocarbon containing the same number of carbon atoms?",
+      "options": [
+        "RBr → Na/dry ether → H2O",
+        "RBr → Mg/dry ether → H2O",
+        "RBr → aqueous KOH → alcoholic KOH",
+        "RBr → NaI/acetone → AgCN",
+        "RBr → FeCl3 → Cl2"
+      ],
+      "answer": 1,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "RBr reacts with magnesium in dry ether to form RMgBr. Water then protonates the carbon bonded to magnesium, producing RH with the same carbon skeleton."
+    },
+    {
+      "id": 68,
+      "type": "mcq_single",
+      "question": "A student wants to distinguish conceptually between Fittig and Wurtz-Fittig reactions by examining only the organic reactants. Which observation is sufficient?",
+      "options": [
+        "Fittig uses two aryl halides, whereas Wurtz-Fittig uses an aryl halide and an alkyl halide.",
+        "Fittig uses alcohol, whereas Wurtz-Fittig uses water.",
+        "Fittig uses magnesium, whereas Wurtz-Fittig uses sodium.",
+        "Fittig produces only alkenes, whereas Wurtz-Fittig produces alcohols.",
+        "Fittig is SN1, whereas Wurtz-Fittig is SN2."
+      ],
+      "answer": 0,
+      "difficulty": 2,
+      "marks": 1,
+      "explanation": "Fittig couples two aryl halides to form Ar-Ar. Wurtz-Fittig couples an aryl halide with an alkyl halide to form Ar-R."
+    },
+    {
+      "id": 69,
+      "type": "mcq_single",
+      "question": "Which comparison correctly connects the environmental behaviour of Freons and DDT?",
+      "options": [
+        "Both are rapidly decomposed and therefore harmless.",
+        "Freons accumulate mainly in fatty tissues, while DDT destroys ozone through chlorine radicals.",
+        "The persistence of Freons allows them to reach the stratosphere, while the persistence and fat solubility of DDT allow biomagnification.",
+        "Both cause environmental damage only because they are strong acids.",
+        "Both are highly soluble in water and rapidly move out of organisms."
+      ],
+      "answer": 2,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "The stability of CFCs allows atmospheric persistence and transport to the stratosphere. DDT is persistent and fat-soluble, causing accumulation and biomagnification in food chains."
+    },
+    {
+      "id": 70,
+      "type": "mcq_single",
+      "question": "A student makes four observations: (I) chlorine deactivates a benzene ring towards electrophilic substitution, (II) chlorine directs incoming electrophiles mainly to ortho and para positions, (III) a para-NO2 group increases nucleophilic substitution of chlorine, and (IV) the same para-NO2 group decreases electrophilic substitution. Which option is correct?",
+      "options": [
+        "Only I and II are correct.",
+        "Only III and IV are correct.",
+        "I, II and III are correct but IV is incorrect.",
+        "All four observations are correct.",
+        "Only I and IV are correct."
+      ],
+      "answer": 3,
+      "difficulty": 3,
+      "marks": 1,
+      "explanation": "Chlorine deactivates by its -I effect but directs ortho and para through resonance donation. A para-NO2 group stabilises the negatively charged intermediate in nucleophilic substitution but withdraws electron density and therefore further deactivates the ring towards electrophilic substitution."
     }
   ]
 }
